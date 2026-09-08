@@ -2,7 +2,7 @@
 
 A NEON TIDE story: a pixel-art romantic comedy with three chapters, five endings, and an optional hovercraft minigame.
 
-[Play the game](https://yaqihou.github.io/last-ferry-game-test/)
+[Play the game](https://yaqihou.com/last-ferry-game-test/)
 
 English, Simplified Chinese, and Japanese text. English voice acting and five music tracks. Enable Sound to listen. Progress is saved in this browser.
 
