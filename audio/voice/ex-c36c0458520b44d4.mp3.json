@@ -1,0 +1,13 @@
+{
+  "id": "ex",
+  "hash": "c36c0458520b44d462d8381016add9ed2320ca50625de1d6c23b0a7b24a00d73",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 28,
+  "character_cost": 28,
+  "request_id": "iQwghmOvbA5QwUcpTqvy",
+  "generated_at": "2026-09-08T07:33:33.943Z",
+  "bytes": 30973,
+  "audio_sha256": "29f1ff2986944e04a47a26c9e1b91d523b460fd53622326a4d49caa254f5655e"
+}

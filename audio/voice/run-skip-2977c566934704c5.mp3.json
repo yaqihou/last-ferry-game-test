@@ -1,0 +1,13 @@
+{
+  "id": "run-skip",
+  "hash": "2977c566934704c59f098ff4c96ad395529fcbfa62f47c53fa1a969eba27e710",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 147,
+  "character_cost": 147,
+  "request_id": "i4A2RHBt8TVM6pEN2aYF",
+  "generated_at": "2026-09-08T07:34:29.730Z",
+  "bytes": 142150,
+  "audio_sha256": "2ef24a5496fc227a25897f87b56108423ad4d6048ea4dd73c6dfaa8dedb04d8c"
+}

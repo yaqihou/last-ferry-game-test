@@ -1,0 +1,13 @@
+{
+  "id": "departure-1",
+  "hash": "0cf80d58dd9e94ff05b8e8c4e77b8a02aef517ce8e59795f605cb57766336669",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 90,
+  "character_cost": 90,
+  "request_id": "vcl8xI8H9Zo0XV6c3a8l",
+  "generated_at": "2026-09-08T07:34:17.704Z",
+  "bytes": 88651,
+  "audio_sha256": "3e28528355b40fba46d3019fba45e3bdb554d10f1be510d666215b83c80cc565"
+}

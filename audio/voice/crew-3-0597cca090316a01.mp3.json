@@ -1,0 +1,13 @@
+{
+  "id": "crew-3",
+  "hash": "0597cca090316a01b5732e9aac26e0e28e227b3c8b666353c95c58fa06ec1416",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 115,
+  "character_cost": 115,
+  "request_id": "ZzV05SK11noKFRYR8BYR",
+  "generated_at": "2026-09-08T07:35:52.615Z",
+  "bytes": 125849,
+  "audio_sha256": "bfcadc9d294e08643fd7750a353e4c0b9121f97ac3c59544d026b008849b715f"
+}

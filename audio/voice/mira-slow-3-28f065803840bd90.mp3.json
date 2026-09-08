@@ -1,0 +1,13 @@
+{
+  "id": "mira-slow-3",
+  "hash": "28f065803840bd90664220671c0240770aa75cefde79fa236ef66c8a012a35fe",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 102,
+  "character_cost": 102,
+  "request_id": "hNAv15I2rLo1VZkpXWGC",
+  "generated_at": "2026-09-08T07:35:25.126Z",
+  "bytes": 110385,
+  "audio_sha256": "5f9b676ad7a458d0d38552c0859a3b0fa2c78765f96e9cf78c9a8504db678165"
+}

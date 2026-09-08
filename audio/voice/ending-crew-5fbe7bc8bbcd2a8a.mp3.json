@@ -1,0 +1,13 @@
+{
+  "id": "ending-crew",
+  "hash": "5fbe7bc8bbcd2a8aa5f1a57ce4b5e708b92379f8329d3961a922bee8ca7d9711",
+  "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+  "voice_name": "Lily",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 191,
+  "character_cost": 191,
+  "request_id": "6Q5fq7rtYiTVKQ293O8z",
+  "generated_at": "2026-09-08T07:36:11.918Z",
+  "bytes": 209859,
+  "audio_sha256": "f5845b578436867b85b5a34b25353eb3442d5cf911124a26d03965e6aa6ea4a2"
+}

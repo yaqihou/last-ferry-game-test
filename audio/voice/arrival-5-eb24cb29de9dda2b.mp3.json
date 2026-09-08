@@ -1,0 +1,13 @@
+{
+  "id": "arrival-5",
+  "hash": "eb24cb29de9dda2b3e0a9f42905b6daff4ca25468e72f4bed7a0793e4e65a948",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 99,
+  "character_cost": 99,
+  "request_id": "dZqvnYLtEhzU12dihd2c",
+  "generated_at": "2026-09-08T07:32:12.090Z",
+  "bytes": 101190,
+  "audio_sha256": "70e8a79fc2e31e4d381cd6a028cb8299bbbd9fd9c6254cace6066164064e4498"
+}

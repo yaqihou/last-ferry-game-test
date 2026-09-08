@@ -1,0 +1,13 @@
+{
+  "id": "arrival-4",
+  "hash": "a8697f68f7f520e5c434264bcf6c6a643038d683bb5764f97d08a9b52d889ebd",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 144,
+  "character_cost": 144,
+  "request_id": "DlGNKBae9AqyCDQuXthJ",
+  "generated_at": "2026-09-08T07:32:10.579Z",
+  "bytes": 147583,
+  "audio_sha256": "95e3528f0c10d50ec2b6f61a2108185c2586c845bd2254f11fdcd79ebc268fd7"
+}

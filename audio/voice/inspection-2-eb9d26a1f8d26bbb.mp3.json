@@ -1,0 +1,13 @@
+{
+  "id": "inspection-2",
+  "hash": "eb9d26a1f8d26bbb7ba3d9cfbd7720ff5c8d5a464a24a67dd39ee75afd0c8c0b",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 84,
+  "character_cost": 84,
+  "request_id": "WDK5sDPDpu2Btevni2gK",
+  "generated_at": "2026-09-08T07:32:43.643Z",
+  "bytes": 71515,
+  "audio_sha256": "f6e6c0b163daba07d0ff8d165f148966d8dc0dd674527dd1bcdbe5e53c3bafe2"
+}

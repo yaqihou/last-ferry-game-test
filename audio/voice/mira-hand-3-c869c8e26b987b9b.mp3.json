@@ -1,0 +1,13 @@
+{
+  "id": "mira-hand-3",
+  "hash": "c869c8e26b987b9bdc3c27c0255b506b1f95c58607fd8e4c449a4e3358323de6",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 49,
+  "character_cost": 49,
+  "request_id": "M5UHX9MrEogX2T7cpYMS",
+  "generated_at": "2026-09-08T07:35:19.828Z",
+  "bytes": 45601,
+  "audio_sha256": "ba1d117a37e3ef86e154f5c150d5c260c69fb403a0daf7b2d3a8677b287e7a1f"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "jun-slow-3",
+  "hash": "a4395ceadc7e7f94ed8d45765885e10f3566af2c03c746f8e7128a95dd9b98cc",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 123,
+  "character_cost": 123,
+  "request_id": "c32BF2gjXEQDf72IP9s0",
+  "generated_at": "2026-09-08T07:35:47.825Z",
+  "bytes": 128775,
+  "audio_sha256": "f06c5b1da1fd304c628d9613df121c1d16aebc062ec52f8a9c8ba9997c15ddc6"
+}

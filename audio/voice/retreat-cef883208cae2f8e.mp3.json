@@ -1,0 +1,13 @@
+{
+  "id": "retreat",
+  "hash": "cef883208cae2f8e410fb7f9d54f131815b746a1ac76dd3cc11f86f4980a9023",
+  "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+  "voice_name": "Alice",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 57,
+  "character_cost": 57,
+  "request_id": "aZ8y3z0vmbQzktBB4YIY",
+  "generated_at": "2026-09-08T07:34:03.894Z",
+  "bytes": 71097,
+  "audio_sha256": "014f17d61137d041d531b49da54dc83a374f8fcbd6096aba16b8d9f90892dd3f"
+}

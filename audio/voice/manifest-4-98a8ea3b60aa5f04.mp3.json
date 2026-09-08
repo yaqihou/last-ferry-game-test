@@ -1,0 +1,13 @@
+{
+  "id": "manifest-4",
+  "hash": "98a8ea3b60aa5f0493d5374ad23adabc62aeee157b26c9739fe9c098cffe5e23",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 129,
+  "character_cost": 129,
+  "request_id": "RzevnI8yyeQDAjh8fswy",
+  "generated_at": "2026-09-08T07:32:54.493Z",
+  "bytes": 123759,
+  "audio_sha256": "8c2b8936ec2fd15494b5786ecdfdd6e7f977d5a5a1e081f88503abbd678da5c8"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "stay-jun-2",
+  "hash": "a930ed8b6510ce9c57df033f4a67b08fc053a1230690e54133c4ff84d0dd27fc",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 94,
+  "character_cost": 94,
+  "request_id": "S2FS8Xr9VK0M8iDpkVWu",
+  "generated_at": "2026-09-08T07:33:11.949Z",
+  "bytes": 91159,
+  "audio_sha256": "03f01345b40faca6183805e25e06d9bf7b1ebc4dbd3e6b6bf2c34a9eff8086f5"
+}

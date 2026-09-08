@@ -1,0 +1,13 @@
+{
+  "id": "unsent-6",
+  "hash": "fcd95d89b958c846276ccbed82618a2d66a967add6152e370e7f98b673e94ac2",
+  "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+  "voice_name": "Lily",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 82,
+  "character_cost": 82,
+  "request_id": "elazvXoPn2X8IeNcuo6A",
+  "generated_at": "2026-09-08T07:34:57.782Z",
+  "bytes": 89487,
+  "audio_sha256": "e3562f6019d708ee5c18487d0b1663fb8ba2b5bbe6e5ae420fd15bdc1f23c5f5"
+}

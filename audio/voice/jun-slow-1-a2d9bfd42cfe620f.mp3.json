@@ -1,0 +1,13 @@
+{
+  "id": "jun-slow-1",
+  "hash": "a2d9bfd42cfe620fb620f8586106ba29eb9217594d0314f6235b660101df6eae",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 57,
+  "character_cost": 57,
+  "request_id": "AtkEvYkHNvKVXZnchvPN",
+  "generated_at": "2026-09-08T07:35:44.926Z",
+  "bytes": 52288,
+  "audio_sha256": "657589c72551c9073a4401be18315b7d0e85caecff1a6e6f8157c2d833a69a55"
+}

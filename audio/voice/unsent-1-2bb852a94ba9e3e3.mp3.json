@@ -1,0 +1,13 @@
+{
+  "id": "unsent-1",
+  "hash": "2bb852a94ba9e3e33bdc168fe7ffb388e685ff10de17bb5292f94b49e9d1a377",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 123,
+  "character_cost": 123,
+  "request_id": "bGib6x94cyosL0Zj5aMX",
+  "generated_at": "2026-09-08T07:34:50.861Z",
+  "bytes": 111639,
+  "audio_sha256": "3a89d3ca93f41cd61230f2bbf8b627a35a746456e5efad77e74f2227cdd6b5e4"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "stay",
+  "hash": "2009da8e66b39bb5a2d4a8fdd2570344e6e1492784ec79af7c329a01e576f22b",
+  "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+  "voice_name": "Lily",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 88,
+  "character_cost": 88,
+  "request_id": "LhFKPec8KR3KCJCdf0lZ",
+  "generated_at": "2026-09-08T07:33:01.851Z",
+  "bytes": 80710,
+  "audio_sha256": "5d9b46eda519ff8c72153749891dd542c9bd694de87e9d333fba6cc37f41f1c7"
+}

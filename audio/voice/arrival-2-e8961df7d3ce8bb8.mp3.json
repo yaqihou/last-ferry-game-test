@@ -1,0 +1,13 @@
+{
+  "id": "arrival-2",
+  "hash": "e8961df7d3ce8bb855aad898704d8e66fd5392a5fb075bca46726aa1d718ccb0",
+  "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+  "voice_name": "Alice",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 66,
+  "character_cost": 66,
+  "request_id": "kErguzcchmVcbWpMRWna",
+  "generated_at": "2026-09-08T07:31:33.492Z",
+  "bytes": 76948,
+  "audio_sha256": "84f85fd9d1d2d36b3c3195b6871b8936af12fa353a719ac0484da890f01ced8c"
+}

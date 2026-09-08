@@ -1,0 +1,13 @@
+{
+  "id": "unsent-7",
+  "hash": "eff1282b99e8ed743afafdea7284407d2e5e1ff2322df612217e1ed6c3a34de6",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 48,
+  "character_cost": 48,
+  "request_id": "baKg438lgL5IpUJuj3v5",
+  "generated_at": "2026-09-08T07:34:58.819Z",
+  "bytes": 37660,
+  "audio_sha256": "4e0e4b0407bf26da9012c3b52ece9ba26932f0f8ae080bfa45d74b09a3d5a2fd"
+}

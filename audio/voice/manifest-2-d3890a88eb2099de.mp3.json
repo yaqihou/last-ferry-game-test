@@ -1,0 +1,13 @@
+{
+  "id": "manifest-2",
+  "hash": "d3890a88eb2099debce01253090217db08349c68cbb9d96a5adacc63bc3d62c3",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 71,
+  "character_cost": 71,
+  "request_id": "b7Ekcu9NEne0FyKiFwKR",
+  "generated_at": "2026-09-08T07:32:52.836Z",
+  "bytes": 66499,
+  "audio_sha256": "560b5662308e9c3dfdbb4a6b94b3b699122337a05963de9bfd5780d07a905dcf"
+}

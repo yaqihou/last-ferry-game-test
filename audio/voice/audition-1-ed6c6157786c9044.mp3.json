@@ -1,0 +1,13 @@
+{
+  "id": "audition-1",
+  "hash": "ed6c6157786c90447b1ae25c11b385b7a284314bc60ac83595bd0c94caa86df4",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 23,
+  "character_cost": 23,
+  "request_id": "pUJ7mK9be6Py4fAx46Qd",
+  "generated_at": "2026-09-08T07:33:51.636Z",
+  "bytes": 20942,
+  "audio_sha256": "15584d45877f621bfebffe1cf659865e61de54b945dc6c48b30dac829b1e551d"
+}

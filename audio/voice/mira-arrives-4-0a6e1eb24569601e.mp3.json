@@ -1,0 +1,13 @@
+{
+  "id": "mira-arrives-4",
+  "hash": "0a6e1eb24569601ec4101414722a1f90a626dd746e6f839a27159c50ce956485",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 27,
+  "character_cost": 27,
+  "request_id": "ZoyHvPLoLa6f1hdtOC7B",
+  "generated_at": "2026-09-08T07:32:30.658Z",
+  "bytes": 25539,
+  "audio_sha256": "c907426f2d9a4c53d238753edc78e689be865700790beb938fa4adb5d9d60170"
+}

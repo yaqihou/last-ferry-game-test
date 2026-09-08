@@ -1,0 +1,13 @@
+{
+  "id": "act-two-5",
+  "hash": "78a20ea7529d1e6c11e4a0f2794258ffb9e7079f8a36dab21857bdc454b2e4ae",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 42,
+  "character_cost": 42,
+  "request_id": "kZc0qleCbV73OanmiByu",
+  "generated_at": "2026-09-08T07:33:20.280Z",
+  "bytes": 44765,
+  "audio_sha256": "b08e64bc0bf040b6f60730465edb426b6fb581a761c79f653b76e67ea97da87e"
+}

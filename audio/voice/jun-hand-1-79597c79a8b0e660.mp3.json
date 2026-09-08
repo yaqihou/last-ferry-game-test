@@ -1,0 +1,13 @@
+{
+  "id": "jun-hand-1",
+  "hash": "79597c79a8b0e660428a96473d75e066faa5acd024843f885f821860e620528e",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 95,
+  "character_cost": 95,
+  "request_id": "bueBxXOCsGBVLxCUz5qO",
+  "generated_at": "2026-09-08T07:35:35.465Z",
+  "bytes": 97010,
+  "audio_sha256": "fc4aed2b4bdc7af7bb2609f412500bd890e007e3a31f786592e991d6af567743"
+}

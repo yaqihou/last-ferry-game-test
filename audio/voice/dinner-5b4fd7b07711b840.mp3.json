@@ -1,0 +1,13 @@
+{
+  "id": "dinner",
+  "hash": "5b4fd7b07711b840ccb4981c44a366fa2a03d9ea74c12e84cc0aeb193384a888",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 32,
+  "character_cost": 32,
+  "request_id": "vH8SM1XECfYSU2GGOF37",
+  "generated_at": "2026-09-08T07:32:36.881Z",
+  "bytes": 33898,
+  "audio_sha256": "a1f9685c9a871559f5f6db2ce9ba62b140b7e775c1d26c5254019d72b8e3738c"
+}

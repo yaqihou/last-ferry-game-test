@@ -1,0 +1,13 @@
+{
+  "id": "receipts-1",
+  "hash": "823ceec469aaada4553fcde7c09c1d35501d199b500cf91d2998105a32d47a49",
+  "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+  "voice_name": "Lily",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 58,
+  "character_cost": 58,
+  "request_id": "7CXthmuiRbQMxbXUnNtf",
+  "generated_at": "2026-09-08T07:34:42.963Z",
+  "bytes": 61066,
+  "audio_sha256": "84729a5d7478ff09b8cba844c1f96acbabe1e84a5f484d989877a55b607c7f89"
+}

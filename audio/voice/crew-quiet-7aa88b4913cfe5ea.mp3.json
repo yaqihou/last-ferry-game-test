@@ -1,0 +1,13 @@
+{
+  "id": "crew-quiet",
+  "hash": "7aa88b4913cfe5ea2ad650ccd2ca4070935bab9b3331f7445e7a6abadb4a6217",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 148,
+  "character_cost": 148,
+  "request_id": "FLrxxjZUeP289dYpDQmo",
+  "generated_at": "2026-09-08T07:35:59.431Z",
+  "bytes": 149673,
+  "audio_sha256": "498a1d5c97361c3e384eb2d738fbfa7059783d02c050a08ea0130d1eb69a60c4"
+}

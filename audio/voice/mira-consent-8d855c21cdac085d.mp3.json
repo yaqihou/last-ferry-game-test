@@ -1,0 +1,13 @@
+{
+  "id": "mira-consent",
+  "hash": "8d855c21cdac085dc3b2b3cf17adbf9fa0b8165db9cdb6bf257df2dcb9daf46a",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 70,
+  "character_cost": 70,
+  "request_id": "H7AWQVEiGARYzcxYfOEN",
+  "generated_at": "2026-09-08T07:35:10.284Z",
+  "bytes": 74440,
+  "audio_sha256": "4ae3ebdd8e4ef319d34676cc2a4d261a178dbdcf9bc274d76051855fa47a75b2"
+}

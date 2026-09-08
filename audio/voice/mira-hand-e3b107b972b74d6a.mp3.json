@@ -1,0 +1,13 @@
+{
+  "id": "mira-hand",
+  "hash": "e3b107b972b74d6ad79dd45c55ff215173c3202cfc533f399031265165bc5699",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 105,
+  "character_cost": 105,
+  "request_id": "h9N6tcKh0mZX86ZSmRWR",
+  "generated_at": "2026-09-08T07:35:16.744Z",
+  "bytes": 115400,
+  "audio_sha256": "6bf3108ffec8b40230fe358356c1ce19ba25f2812be1ccd5fad21991284b8ac0"
+}

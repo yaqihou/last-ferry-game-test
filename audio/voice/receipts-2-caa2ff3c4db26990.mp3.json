@@ -1,0 +1,13 @@
+{
+  "id": "receipts-2",
+  "hash": "caa2ff3c4db2699096b0844e3bc3db87d320223132c70b4c012577b48ac9c79e",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 67,
+  "character_cost": 67,
+  "request_id": "Fan12VEi7GbbNoZCK5TR",
+  "generated_at": "2026-09-08T07:34:44.170Z",
+  "bytes": 60648,
+  "audio_sha256": "4ca608b857a2af7f8b08929b31830c079a65435c2790969917affdfd778c5254"
+}

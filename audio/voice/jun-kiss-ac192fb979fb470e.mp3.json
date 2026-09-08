@@ -1,0 +1,13 @@
+{
+  "id": "jun-kiss",
+  "hash": "ac192fb979fb470ea1c0524c25ca63bc12299e92169c75e2b98fcec4139793d2",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 28,
+  "character_cost": 28,
+  "request_id": "IK3XFH3jb5hOLUgxf9a7",
+  "generated_at": "2026-09-08T07:35:38.536Z",
+  "bytes": 37660,
+  "audio_sha256": "dead15f91336fcc6b222eb717890b62028cf575340c7d33c239e4df33d848786"
+}

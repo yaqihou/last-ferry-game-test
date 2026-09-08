@@ -1,0 +1,13 @@
+{
+  "id": "mira-kiss-3",
+  "hash": "f99fe9f437207f329923a47e1ba805ff3215ba1fb5b8d854531b2ae571a72d09",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 36,
+  "character_cost": 36,
+  "request_id": "wCBLul7Kkq0YNM6Tfw8Y",
+  "generated_at": "2026-09-08T07:35:15.154Z",
+  "bytes": 36824,
+  "audio_sha256": "074d1a5eb557aaec6084c3e0197bbbd530f74ed38f4ce0a198d0c9d859a2fb75"
+}

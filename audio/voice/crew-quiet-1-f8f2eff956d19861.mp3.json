@@ -1,0 +1,13 @@
+{
+  "id": "crew-quiet-1",
+  "hash": "f8f2eff956d1986163cf17e6737c599feab4f956aa132cdfe07d29631c663103",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 32,
+  "character_cost": 32,
+  "request_id": "dsar82Wp3AuwbFyKUWgE",
+  "generated_at": "2026-09-08T07:36:00.473Z",
+  "bytes": 33062,
+  "audio_sha256": "4df152a4e33c7cda4b89f3443d83ebbbb39668526523800342042148388a00b3"
+}

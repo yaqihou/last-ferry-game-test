@@ -1,0 +1,13 @@
+{
+  "id": "act-two-9",
+  "hash": "fd8c597598ed00e85bc1539eea0c0cd4514fb097f18be90fddcdd62fdc184926",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 49,
+  "character_cost": 49,
+  "request_id": "tNcTbtvFZsxADEujZSXu",
+  "generated_at": "2026-09-08T07:33:25.259Z",
+  "bytes": 57722,
+  "audio_sha256": "0a8180b1ed159e096c0d15004328b1b7158a8f6819e180a11a3080721d89582a"
+}

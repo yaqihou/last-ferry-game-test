@@ -1,0 +1,986 @@
+{
+  "version": 1,
+  "total": 196,
+  "clips": {
+    "arrival": {
+      "src": "/audio/voice/arrival-dfdf6068f6d60bfa.mp3",
+      "text": "At 1:58 AM, the ocean is black, the coffee is criminal, and your first shift as night dispatcher is almost over. Almost is doing a lot of work.",
+      "speaker": "narrator"
+    },
+    "arrival-1": {
+      "src": "/audio/voice/arrival-1-f155956320a9a939.mp3",
+      "text": "The job listing said “quiet coastal environment.” It did not mention the vending machine asking about my attachment style.",
+      "speaker": "you"
+    },
+    "arrival-2": {
+      "src": "/audio/voice/arrival-2-e8961df7d3ce8bb8.mp3",
+      "text": "YOUR LATTE IS ANXIOUS-PREOCCUPIED. WOULD YOU LIKE TO ADD OAT MILK?",
+      "speaker": "system"
+    },
+    "arrival-3": {
+      "src": "/audio/voice/arrival-3-a482889651881618.mp3",
+      "text": "Don’t answer. Last week it diagnosed the captain and she unplugged an entire pier.",
+      "speaker": "jun"
+    },
+    "arrival-4": {
+      "src": "/audio/voice/arrival-4-a8697f68f7f520e5.mp3",
+      "text": "Jun, the terminal engineer, slides a real mug across the counter. His sleeves are rolled up. Your concentration quietly submits its resignation.",
+      "speaker": "narrator"
+    },
+    "arrival-5": {
+      "src": "/audio/voice/arrival-5-eb24cb29de9dda2b.mp3",
+      "text": "Coffee. No personality assessment. I made it myself, so the only thing wrong with it is the coffee.",
+      "speaker": "jun"
+    },
+    "arrival-6": {
+      "src": "/audio/voice/arrival-6-0737cbba04cad204.mp3",
+      "text": "You make this sound dangerously exclusive.",
+      "speaker": "you"
+    },
+    "arrival-7": {
+      "src": "/audio/voice/arrival-7-e9e890b5bbb2c8a2.mp3",
+      "text": "It comes with a lid. I’m trying not to oversell it.",
+      "speaker": "jun"
+    },
+    "drink": {
+      "src": "/audio/voice/drink-ca02b03a50ef41ab.mp3",
+      "text": "What do you need to survive the last two minutes of your shift?",
+      "speaker": "jun"
+    },
+    "sweet": {
+      "src": "/audio/voice/sweet-a4c46f522c2e9092.mp3",
+      "text": "I put a little honey in it. The captain calls that emotional availability. She considers it a workplace hazard.",
+      "speaker": "jun"
+    },
+    "sweet-1": {
+      "src": "/audio/voice/sweet-1-dd84e7bbaab1eaf3.mp3",
+      "text": "There is a small biscuit balanced on the lid. Jun pretends not to notice you noticing.",
+      "speaker": "narrator"
+    },
+    "refund": {
+      "src": "/audio/voice/refund-8dc4bf0a4cc4a8ff.mp3",
+      "text": "Keep the receipt. Mine are still under warranty.",
+      "speaker": "jun"
+    },
+    "refund-1": {
+      "src": "/audio/voice/refund-1-cc9ad345235c8753.mp3",
+      "text": "Have you tried returning them?",
+      "speaker": "you"
+    },
+    "refund-2": {
+      "src": "/audio/voice/refund-2-fe648a5435dd042b.mp3",
+      "text": "Apparently “became an engineer because a girl said boats were hot” counts as normal wear and tear.",
+      "speaker": "jun"
+    },
+    "number": {
+      "src": "/audio/voice/number-eb77083f9be7bced.mp3",
+      "text": "Sure. Although if this is flirting, I should warn you: I come with several unresolved tickets.",
+      "speaker": "jun"
+    },
+    "number-1": {
+      "src": "/audio/voice/number-1-bd704695a4f952f1.mp3",
+      "text": "I like a project.",
+      "speaker": "you"
+    },
+    "number-2": {
+      "src": "/audio/voice/number-2-b73488646bc54024.mp3",
+      "text": "He writes his number on the sleeve. Under it: not just emergencies. Then he very carefully looks at a toaster.",
+      "speaker": "narrator"
+    },
+    "mira-arrives": {
+      "src": "/audio/voice/mira-arrives-43f1602d68dcf91d.mp3",
+      "text": "The door bursts open. A woman in a peach jacket enters sideways, carrying a metal case that appears to be vibrating with bad intentions.",
+      "speaker": "narrator"
+    },
+    "mira-arrives-1": {
+      "src": "/audio/voice/mira-arrives-1-1f30c5098a738ae1.mp3",
+      "text": "Good evening, attractive employees of a failing transport system. Which one of you can authorize a deeply normal boat trip?",
+      "speaker": "mira"
+    },
+    "mira-arrives-2": {
+      "src": "/audio/voice/mira-arrives-2-8c0eced6efbd399d.mp3",
+      "text": "Define normal.",
+      "speaker": "jun"
+    },
+    "mira-arrives-3": {
+      "src": "/audio/voice/mira-arrives-3-2fc7591871f6d7fc.mp3",
+      "text": "A passenger. A package. Absolutely no reason to involve a helicopter.",
+      "speaker": "mira"
+    },
+    "mira-arrives-4": {
+      "src": "/audio/voice/mira-arrives-4-0a6e1eb24569601e.mp3",
+      "text": "Why did you say helicopter?",
+      "speaker": "you"
+    },
+    "mira-arrives-5": {
+      "src": "/audio/voice/mira-arrives-5-7b4adf31515ba6fc.mp3",
+      "text": "Because I respect your right to informed consent. Hi. Mira. Courier, twenty-eight, excellent at parallel parking, briefly banned from three aquariums.",
+      "speaker": "mira"
+    },
+    "mira-arrives-6": {
+      "src": "/audio/voice/mira-arrives-6-029c4133bbf6e5fe.mp3",
+      "text": "Four.",
+      "speaker": "jun"
+    },
+    "mira-arrives-7": {
+      "src": "/audio/voice/mira-arrives-7-9d592f06a9adc4cf.mp3",
+      "text": "The fourth was mutual.",
+      "speaker": "mira"
+    },
+    "case": {
+      "src": "/audio/voice/case-995b41ac44e809d4.mp3",
+      "text": "So, dispatcher. Are you going to inspect my suspicious package, or buy me dinner first?",
+      "speaker": "mira"
+    },
+    "dinner": {
+      "src": "/audio/voice/dinner-5b4fd7b07711b840.mp3",
+      "text": "Finally. Someone with standards.",
+      "speaker": "mira"
+    },
+    "dinner-1": {
+      "src": "/audio/voice/dinner-1-f9a70fa1de6ded46.mp3",
+      "text": "I mean I need you distracted while I read the manifest.",
+      "speaker": "you"
+    },
+    "dinner-2": {
+      "src": "/audio/voice/dinner-2-9687c74cbcac21ec.mp3",
+      "text": "Oh, you flirt in layers. That’s going to be inconvenient for me.",
+      "speaker": "mira"
+    },
+    "inspection": {
+      "src": "/audio/voice/inspection-03f5e0db260cd0a0.mp3",
+      "text": "For the record, that octopus started it.",
+      "speaker": "mira"
+    },
+    "inspection-1": {
+      "src": "/audio/voice/inspection-1-e6e6c1d6b1b8a53a.mp3",
+      "text": "She opens the case one inch. You see a rubber duck, a red cable, and a shipping label: MUNICIPAL HEART//WARE — PERSONAL CORRESPONDENCE.",
+      "speaker": "narrator"
+    },
+    "inspection-2": {
+      "src": "/audio/voice/inspection-2-eb9d26a1f8d26bbb.mp3",
+      "text": "That’s either a terrible band name or a very good reason to ask follow-up questions.",
+      "speaker": "you"
+    },
+    "always": {
+      "src": "/audio/voice/always-0516b95e343fc621.mp3",
+      "text": "No. Sometimes she brings a bigger case.",
+      "speaker": "jun"
+    },
+    "always-1": {
+      "src": "/audio/voice/always-1-4b034867836b945e.mp3",
+      "text": "Jun helped me carry that one.",
+      "speaker": "mira"
+    },
+    "always-2": {
+      "src": "/audio/voice/always-2-a7e35f07213b8f1a.mp3",
+      "text": "It said FRAGILE. I have a condition.",
+      "speaker": "jun"
+    },
+    "always-3": {
+      "src": "/audio/voice/always-3-d4029e0a33442a04.mp3",
+      "text": "Compassion?",
+      "speaker": "you"
+    },
+    "always-4": {
+      "src": "/audio/voice/always-4-c32f1f63c1fb87ee.mp3",
+      "text": "Lower back pain.",
+      "speaker": "jun"
+    },
+    "manifest": {
+      "src": "/audio/voice/manifest-cd9c4807d3b8c493.mp3",
+      "text": "The manifest lists one passenger, one emotional support duck, and three hundred kilograms of “unresolved tension.” Someone has drawn a heart around the customs exemption.",
+      "speaker": "narrator"
+    },
+    "manifest-1": {
+      "src": "/audio/voice/manifest-1-c1df71c7e2be0cf8.mp3",
+      "text": "This form is signed by the mayor.",
+      "speaker": "you"
+    },
+    "manifest-2": {
+      "src": "/audio/voice/manifest-2-d3890a88eb2099de.mp3",
+      "text": "He was surprisingly cooperative once I found a sample of his signature.",
+      "speaker": "mira"
+    },
+    "manifest-3": {
+      "src": "/audio/voice/manifest-3-8662075a15b7b737.mp3",
+      "text": "That is why we do not discuss paperwork near microphones.",
+      "speaker": "sable"
+    },
+    "manifest-4": {
+      "src": "/audio/voice/manifest-4-98a8ea3b60aa5f04.mp3",
+      "text": "Captain Sable steps out of the kitchen holding a frying pan with the serenity of a woman who has won arguments with maritime law.",
+      "speaker": "narrator"
+    },
+    "manifest-5": {
+      "src": "/audio/voice/manifest-5-450f593937f575c0.mp3",
+      "text": "I’m thirty-five, I’m off the clock, and I have just heard the word “helicopter.” Somebody had better be paying overtime.",
+      "speaker": "sable"
+    },
+    "manifest-6": {
+      "src": "/audio/voice/manifest-6-bda25c337cc828c1.mp3",
+      "text": "The departure clock stopped at 1:59. Again.",
+      "speaker": "jun"
+    },
+    "manifest-7": {
+      "src": "/audio/voice/manifest-7-59ba69cd4c0e480e.mp3",
+      "text": "No. I stopped it. The port locks at two. It cannot lock at two if two never happens.",
+      "speaker": "sable"
+    },
+    "manifest-8": {
+      "src": "/audio/voice/manifest-8-0e1839182f268a95.mp3",
+      "text": "That is not how time works.",
+      "speaker": "you"
+    },
+    "manifest-9": {
+      "src": "/audio/voice/manifest-9-5b6b96ed2978fcb5.mp3",
+      "text": "Then time can file a complaint.",
+      "speaker": "sable"
+    },
+    "stay": {
+      "src": "/audio/voice/stay-2009da8e66b39bb5.mp3",
+      "text": "You can walk away, Robin. Your shift is over. Or you can help us get one last ferry out.",
+      "speaker": "sable"
+    },
+    "who": {
+      "src": "/audio/voice/who-8bf3578fb1e39648.mp3",
+      "text": "People who trusted a machine with something they couldn’t say out loud.",
+      "speaker": "sable"
+    },
+    "who-1": {
+      "src": "/audio/voice/who-1-a4f784d4e09d7fb4.mp3",
+      "text": "We stole their letters back.",
+      "speaker": "mira"
+    },
+    "who-2": {
+      "src": "/audio/voice/who-2-0df7e8b83c1ee2ef.mp3",
+      "text": "That sentence is going to need a lot more coffee.",
+      "speaker": "you"
+    },
+    "pretty": {
+      "src": "/audio/voice/pretty-0c311afc8472adf6.mp3",
+      "text": "For clarity: am I the worse decision or the prettier person?",
+      "speaker": "mira"
+    },
+    "pretty-1": {
+      "src": "/audio/voice/pretty-1-72662fec47774016.mp3",
+      "text": "I’m leaving room for you to surprise me.",
+      "speaker": "you"
+    },
+    "pretty-2": {
+      "src": "/audio/voice/pretty-2-92c85fc592665ce6.mp3",
+      "text": "Careful. I’m very good at disappointing expectations in interesting directions.",
+      "speaker": "mira"
+    },
+    "stay-jun": {
+      "src": "/audio/voice/stay-jun-d8f63b42954fa9ef.mp3",
+      "text": "You don’t owe me that.",
+      "speaker": "jun"
+    },
+    "stay-jun-1": {
+      "src": "/audio/voice/stay-jun-1-69db4ac75d296c69.mp3",
+      "text": "I know. That’s what makes it a decision.",
+      "speaker": "you"
+    },
+    "stay-jun-2": {
+      "src": "/audio/voice/stay-jun-2-a930ed8b6510ce9c.mp3",
+      "text": "His thumb rests on the edge of your mug, beside yours. For once, he doesn’t have a joke ready.",
+      "speaker": "narrator"
+    },
+    "act-two": {
+      "src": "/audio/voice/act-two-13dbc194ed4ff542.mp3",
+      "text": "ATTENTION, PASSENGERS. YOUR CITY CARES ABOUT YOUR FEELINGS. TERMS AND CONDITIONS APPLY.",
+      "speaker": "system"
+    },
+    "act-two-1": {
+      "src": "/audio/voice/act-two-1-cced386898be047c.mp3",
+      "text": "There. That’s our problem in one unbearably cheerful sentence.",
+      "speaker": "mira"
+    },
+    "act-two-2": {
+      "src": "/audio/voice/act-two-2-158035771f18c4a4.mp3",
+      "text": "HEART//WARE was supposed to help people write difficult messages. Apologies. Confessions. “Please stop parking in front of my bakery.”",
+      "speaker": "jun"
+    },
+    "act-two-3": {
+      "src": "/audio/voice/act-two-3-3eef58526b04c12f.mp3",
+      "text": "Then the city discovered unfinished love letters sell for more than parking permits. Tomorrow, they auction the archive to an advertising company.",
+      "speaker": "mira"
+    },
+    "act-two-4": {
+      "src": "/audio/voice/act-two-4-787c6cf8e208c41a.mp3",
+      "text": "You stole the archive.",
+      "speaker": "you"
+    },
+    "act-two-5": {
+      "src": "/audio/voice/act-two-5-78a20ea7529d1e6c.mp3",
+      "text": "Borrowed. Permanently. With heroic intent.",
+      "speaker": "mira"
+    },
+    "act-two-6": {
+      "src": "/audio/voice/act-two-6-04662f40299677d1.mp3",
+      "text": "It is theft. We can be morally correct and use the right noun.",
+      "speaker": "sable"
+    },
+    "act-two-7": {
+      "src": "/audio/voice/act-two-7-bcf2491d914d2ebd.mp3",
+      "text": "Mira opens the case. A palm-sized rubber duck looks up at you. It has a USB port where dignity should be.",
+      "speaker": "narrator"
+    },
+    "act-two-8": {
+      "src": "/audio/voice/act-two-8-1dc3ec6a2b48811d.mp3",
+      "text": "The entire city’s secret feelings are in that?",
+      "speaker": "you"
+    },
+    "act-two-9": {
+      "src": "/audio/voice/act-two-9-fd8c597598ed00e8.mp3",
+      "text": "Military-grade encryption. Bath-grade camouflage.",
+      "speaker": "jun"
+    },
+    "duck": {
+      "src": "/audio/voice/duck-78b28cc3f09c6602.mp3",
+      "text": "The duck lets out one extremely incriminating squeak.",
+      "speaker": "you"
+    },
+    "duck-love": {
+      "src": "/audio/voice/duck-love-0879c4e06aaaca07.mp3",
+      "text": "He’s called Sir Quacks-a-Lot. He has no respect for authority and neither do I.",
+      "speaker": "mira"
+    },
+    "duck-love-1": {
+      "src": "/audio/voice/duck-love-1-ecc49fb61bd0f48c.mp3",
+      "text": "You named the evidence.",
+      "speaker": "you"
+    },
+    "duck-love-2": {
+      "src": "/audio/voice/duck-love-2-ce4b1de598a2d7a7.mp3",
+      "text": "It gets worse. I made him a little passport.",
+      "speaker": "mira"
+    },
+    "privacy": {
+      "src": "/audio/voice/privacy-5c33261a27f3590c.mp3",
+      "text": "Exactly. I wrote a return script. Each letter goes only to its author. Nobody else gets to decide when they’re ready to send it.",
+      "speaker": "jun"
+    },
+    "privacy-1": {
+      "src": "/audio/voice/privacy-1-912d9d8bf9969def.mp3",
+      "text": "Good. The revolution will respect boundaries. And use version control.",
+      "speaker": "sable"
+    },
+    "ex": {
+      "src": "/audio/voice/ex-c36c0458520b44d4.mp3",
+      "text": "No machine is that advanced.",
+      "speaker": "jun"
+    },
+    "ex-1": {
+      "src": "/audio/voice/ex-1-8ef71e3b23cfe876.mp3",
+      "text": "I can offer three theories and a shovel.",
+      "speaker": "mira"
+    },
+    "ex-2": {
+      "src": "/audio/voice/ex-2-11642eab9c9829e9.mp3",
+      "text": "Let’s keep the shovel metaphorical.",
+      "speaker": "you"
+    },
+    "ex-3": {
+      "src": "/audio/voice/ex-3-49f4085e4446cd1b.mp3",
+      "text": "Fine. But it’s a really good shovel.",
+      "speaker": "mira"
+    },
+    "letter": {
+      "src": "/audio/voice/letter-1813b60435798721.mp3",
+      "text": "A loose envelope slips from Jun’s jacket. It lands face-up. Your name is on it.",
+      "speaker": "narrator"
+    },
+    "letter-1": {
+      "src": "/audio/voice/letter-1-0f70a81eb54b5164.mp3",
+      "text": "Robin? That’s me. Unless there’s another devastatingly employable Robin in this terminal.",
+      "speaker": "you"
+    },
+    "letter-2": {
+      "src": "/audio/voice/letter-2-e9c9097c45753f41.mp3",
+      "text": "That is unrelated to the duck.",
+      "speaker": "jun"
+    },
+    "letter-3": {
+      "src": "/audio/voice/letter-3-a72f6f2daa47d5f2.mp3",
+      "text": "He practiced giving it to you six times. I played you. I was very convincing.",
+      "speaker": "mira"
+    },
+    "letter-4": {
+      "src": "/audio/voice/letter-4-0617e0041e4bb6cb.mp3",
+      "text": "You kept demanding a dramatic kiss in the rain.",
+      "speaker": "jun"
+    },
+    "letter-5": {
+      "src": "/audio/voice/letter-5-8ffe6d1883cd4856.mp3",
+      "text": "Method acting.",
+      "speaker": "mira"
+    },
+    "envelope": {
+      "src": "/audio/voice/envelope-cf890dd2a3a8cd0c.mp3",
+      "text": "It was supposed to be an invitation. Before all this. You don’t have to open it now.",
+      "speaker": "jun"
+    },
+    "ask-later": {
+      "src": "/audio/voice/ask-later-82bd82e019add789.mp3",
+      "text": "Okay. Right. An actual conversation. With my mouth. Bold technology.",
+      "speaker": "jun"
+    },
+    "ask-later-1": {
+      "src": "/audio/voice/ask-later-1-7866be8d4f5a3dfa.mp3",
+      "text": "I believe in your hardware.",
+      "speaker": "you"
+    },
+    "ask-later-2": {
+      "src": "/audio/voice/ask-later-2-8114b69702000d3d.mp3",
+      "text": "Mira makes a choking noise into her coffee. Jun turns the exact color of the emergency stop button.",
+      "speaker": "narrator"
+    },
+    "audition": {
+      "src": "/audio/voice/audition-d357231dc8ed6c33.mp3",
+      "text": "It had range. Longing. A tasteful amount of leaning against things.",
+      "speaker": "mira"
+    },
+    "audition-1": {
+      "src": "/audio/voice/audition-1-ed6c6157786c9044.mp3",
+      "text": "You’ll have to show me.",
+      "speaker": "you"
+    },
+    "audition-2": {
+      "src": "/audio/voice/audition-2-04f88fa3b9553c92.mp3",
+      "text": "Oh. You’re serious. That’s… inconveniently nice.",
+      "speaker": "mira"
+    },
+    "private-letter": {
+      "src": "/audio/voice/private-letter-8cd0e2d3796ad618.mp3",
+      "text": "You put the envelope in your inside pocket without breaking the seal.",
+      "speaker": "narrator"
+    },
+    "private-letter-1": {
+      "src": "/audio/voice/private-letter-1-0c288c124613879c.mp3",
+      "text": "Thank you.",
+      "speaker": "jun"
+    },
+    "private-letter-2": {
+      "src": "/audio/voice/private-letter-2-abd41e410424d1c0.mp3",
+      "text": "It’s not going anywhere. Neither am I.",
+      "speaker": "you"
+    },
+    "inspector": {
+      "src": "/audio/voice/inspector-7d54fde828ceadee.mp3",
+      "text": "SECURITY INSPECTION IN PROGRESS. PLEASE DECLARE ALL LIQUIDS, BATTERIES, AND INTENTIONS.",
+      "speaker": "system"
+    },
+    "inspector-1": {
+      "src": "/audio/voice/inspector-1-4fc89e926e25d70e.mp3",
+      "text": "Nobody declare intentions. We’ll be here all night.",
+      "speaker": "sable"
+    },
+    "inspector-2": {
+      "src": "/audio/voice/inspector-2-874aeb576efa13ae.mp3",
+      "text": "The departure monitor flickers. A customs chatbot smiles with twelve teeth too many. Its loading wheel looks judgmental.",
+      "speaker": "narrator"
+    },
+    "inspector-3": {
+      "src": "/audio/voice/inspector-3-2fd5c78299788fba.mp3",
+      "text": "WHY DOES YOUR CARGO MANIFEST CONTAIN THREE HUNDRED KILOGRAMS OF UNRESOLVED TENSION?",
+      "speaker": "system"
+    },
+    "customs": {
+      "src": "/audio/voice/customs-c6c85f65ae53c4e8.mp3",
+      "text": "SELECT A PLAUSIBLE EXPLANATION.",
+      "speaker": "system"
+    },
+    "retreat": {
+      "src": "/audio/voice/retreat-cef883208cae2f8e.mp3",
+      "text": "CORPORATE SUFFERING DETECTED. PRIORITY CLEARANCE GRANTED.",
+      "speaker": "system"
+    },
+    "retreat-1": {
+      "src": "/audio/voice/retreat-1-71edba57c5ecadcd.mp3",
+      "text": "That was hot. In a deeply depressing economic sense.",
+      "speaker": "mira"
+    },
+    "retreat-2": {
+      "src": "/audio/voice/retreat-2-0d3b77e4958c1836.mp3",
+      "text": "Put it on the invoice.",
+      "speaker": "sable"
+    },
+    "clause": {
+      "src": "/audio/voice/clause-2611c82d542d6560.mp3",
+      "text": "RETRIEVING EXEMPTION 4B… ERROR. THIS REGULATION IS EMBARRASSINGLY REAL.",
+      "speaker": "system"
+    },
+    "clause-1": {
+      "src": "/audio/voice/clause-1-bfbe326fe10ac650.mp3",
+      "text": "You read the policy binder?",
+      "speaker": "jun"
+    },
+    "clause-2": {
+      "src": "/audio/voice/clause-2-46262315165ac7e5.mp3",
+      "text": "There was a queue at the coffee machine.",
+      "speaker": "you"
+    },
+    "clause-3": {
+      "src": "/audio/voice/clause-3-62406aa4bea226c2.mp3",
+      "text": "I have never been so attracted to administrative diligence.",
+      "speaker": "jun"
+    },
+    "group-date": {
+      "src": "/audio/voice/group-date-84b67ef79491936c.mp3",
+      "text": "RELATIONSHIP GRAPH EXCEEDS FREE TIER. UPGRADE TO PREMIUM TO CONTINUE JUDGING.",
+      "speaker": "system"
+    },
+    "group-date-1": {
+      "src": "/audio/voice/group-date-1-f0db1622f599308a.mp3",
+      "text": "I refuse to be a subscription.",
+      "speaker": "sable"
+    },
+    "group-date-2": {
+      "src": "/audio/voice/group-date-2-3b6a1e690c7f1d37.mp3",
+      "text": "She unplugs the monitor. The port gate opens with the exhausted sigh of a machine that has met its manager.",
+      "speaker": "narrator"
+    },
+    "departure": {
+      "src": "/audio/voice/departure-dca610f1f7ac5b41.mp3",
+      "text": "Outside, harbor patrol lights turn the rain into blue needles. The ferry is beyond the fairway. Someone needs to bring the duck across.",
+      "speaker": "narrator"
+    },
+    "departure-1": {
+      "src": "/audio/voice/departure-1-0cf80d58dd9e94ff.mp3",
+      "text": "The little hovercraft is fast. The pylons are inconvenient. Your hair will look fantastic.",
+      "speaker": "mira"
+    },
+    "departure-2": {
+      "src": "/audio/voice/departure-2-c90dd1c98abd34c1.mp3",
+      "text": "Or I can take the wheel. You’ve already done more than your job description asked.",
+      "speaker": "jun"
+    },
+    "pilot": {
+      "src": "/audio/voice/pilot-ea4052e5e3eeedb5.mp3",
+      "text": "Your call, dispatcher. This is a rescue, not a driving exam.",
+      "speaker": "sable"
+    },
+    "run-win": {
+      "src": "/audio/voice/run-win-99cd460ee36a1f9d.mp3",
+      "text": "You dock with all the grace of someone who definitely meant to do that. The duck squeaks approvingly.",
+      "speaker": "narrator"
+    },
+    "run-win-1": {
+      "src": "/audio/voice/run-win-1-438df41f730274f8.mp3",
+      "text": "That was either excellent piloting or an incredibly sustained flirt.",
+      "speaker": "mira"
+    },
+    "run-win-2": {
+      "src": "/audio/voice/run-win-2-177f7c41c603bccf.mp3",
+      "text": "I contain multitudes. And mild motion sickness.",
+      "speaker": "you"
+    },
+    "run-fail": {
+      "src": "/audio/voice/run-fail-578e87a32c5a4b75.mp3",
+      "text": "A rescue line catches your craft before the harbor can keep it. Sable reels you in with one hand and eats a biscuit with the other.",
+      "speaker": "narrator"
+    },
+    "run-fail-1": {
+      "src": "/audio/voice/run-fail-1-6249ae5892b2ba13.mp3",
+      "text": "Perfect docking is for boats with something to prove. Everybody here? Good.",
+      "speaker": "sable"
+    },
+    "run-fail-2": {
+      "src": "/audio/voice/run-fail-2-586a00c0fb7f9e1f.mp3",
+      "text": "You looked very heroic for the first seventy percent.",
+      "speaker": "mira"
+    },
+    "run-skip": {
+      "src": "/audio/voice/run-skip-2977c566934704c5.mp3",
+      "text": "Jun pilots the hovercraft through the glowing fairway. Mira protects the duck with her entire jacket. You protect the coffee. Everybody has a role.",
+      "speaker": "narrator"
+    },
+    "run-skip-1": {
+      "src": "/audio/voice/run-skip-1-3a3fe9a3e1180182.mp3",
+      "text": "We’re clear. And I only apologized to one pylon.",
+      "speaker": "jun"
+    },
+    "run-skip-2": {
+      "src": "/audio/voice/run-skip-2-a7b2677d446c13bd.mp3",
+      "text": "Personal growth.",
+      "speaker": "you"
+    },
+    "rooftop": {
+      "src": "/audio/voice/rooftop-2f989e98720c27f2.mp3",
+      "text": "The ferry’s upper deck is technically a rooftop bar. Tonight it serves canned coffee, salt air, and the consequences of being interesting.",
+      "speaker": "narrator"
+    },
+    "rooftop-1": {
+      "src": "/audio/voice/rooftop-1-ad18cfd39fa12416.mp3",
+      "text": "Across the harbor, an enormous inflatable duck towers over a cargo ship. You decide to ask about it tomorrow. You have reached your duck limit.",
+      "speaker": "narrator"
+    },
+    "rooftop-2": {
+      "src": "/audio/voice/rooftop-2-35807cdb7571807b.mp3",
+      "text": "The archive is safe. Jun can return every letter to its owner. We also have the contract that proves the city intended to sell them.",
+      "speaker": "sable"
+    },
+    "rooftop-3": {
+      "src": "/audio/voice/rooftop-3-05eaa7887af7f446.mp3",
+      "text": "What happens to that?",
+      "speaker": "you"
+    },
+    "rooftop-4": {
+      "src": "/audio/voice/rooftop-4-758f3d985e62b528.mp3",
+      "text": "Your call. You’re the only one here who still has a respectable search history.",
+      "speaker": "mira"
+    },
+    "evidence": {
+      "src": "/audio/voice/evidence-83b40809a7d0c562.mp3",
+      "text": "The letters belong to their authors. The city’s sales contract is another matter.",
+      "speaker": "you"
+    },
+    "receipts": {
+      "src": "/audio/voice/receipts-4aadbd3191fd3a73.mp3",
+      "text": "No names from the letters. No private messages. Just the signatures of the people who approved the sale.",
+      "speaker": "jun"
+    },
+    "receipts-1": {
+      "src": "/audio/voice/receipts-1-823ceec469aaada4.mp3",
+      "text": "A scandal with properly redacted attachments. I might cry.",
+      "speaker": "sable"
+    },
+    "receipts-2": {
+      "src": "/audio/voice/receipts-2-caa2ff3c4db26990.mp3",
+      "text": "I knew you were trouble the second you said “inspect the manifest.”",
+      "speaker": "mira"
+    },
+    "quiet": {
+      "src": "/audio/voice/quiet-39f9cd8e1f9a7acd.mp3",
+      "text": "I can live with that. The important part is that the letters go home.",
+      "speaker": "mira"
+    },
+    "quiet-1": {
+      "src": "/audio/voice/quiet-1-dca719f4f38bd29e.mp3",
+      "text": "And we keep a protected copy of the contract. Quiet doesn’t have to mean forgotten.",
+      "speaker": "jun"
+    },
+    "quiet-2": {
+      "src": "/audio/voice/quiet-2-dd8d50eff235c17e.mp3",
+      "text": "Excellent. A future problem. My favorite kind at two in the morning.",
+      "speaker": "sable"
+    },
+    "unsent": {
+      "src": "/audio/voice/unsent-e054b5958ce332f6.mp3",
+      "text": "DELIVERY COMPLETE. 8,412 UNSENT MESSAGES RETURNED TO THEIR AUTHORS.",
+      "speaker": "system"
+    },
+    "unsent-1": {
+      "src": "/audio/voice/unsent-1-2bb852a94ba9e3e3.mp3",
+      "text": "For a moment, nobody says anything. Somewhere inland, thousands of phones light up with words people thought they had lost.",
+      "speaker": "narrator"
+    },
+    "unsent-2": {
+      "src": "/audio/voice/unsent-2-3d4953591ba66903.mp3",
+      "text": "Mine was in there. A letter to my sister. I left town badly. Kept trying to make the apology sound less like me.",
+      "speaker": "mira"
+    },
+    "unsent-3": {
+      "src": "/audio/voice/unsent-3-b5363729d2687e5a.mp3",
+      "text": "Maybe sounding like you was the good part.",
+      "speaker": "you"
+    },
+    "unsent-4": {
+      "src": "/audio/voice/unsent-4-26d7cf6d6682d9f6.mp3",
+      "text": "You say things like that very casually. It’s rude to my entire defense system.",
+      "speaker": "mira"
+    },
+    "unsent-5": {
+      "src": "/audio/voice/unsent-5-ea21c940040df4f2.mp3",
+      "text": "Mine wasn’t in the archive. I wrote it on paper because the vending machine kept suggesting I open with “hey bestie.”",
+      "speaker": "jun"
+    },
+    "unsent-6": {
+      "src": "/audio/voice/unsent-6-fcd95d89b958c846.mp3",
+      "text": "Mine was a resignation letter. Eleven drafts. In the end, I stole a ferry instead.",
+      "speaker": "sable"
+    },
+    "unsent-7": {
+      "src": "/audio/voice/unsent-7-eff1282b99e8ed74.mp3",
+      "text": "Career development looks different for everyone.",
+      "speaker": "you"
+    },
+    "unsent-8": {
+      "src": "/audio/voice/unsent-8-d896411d7b37f7ac.mp3",
+      "text": "The captain heads downstairs. The duck goes with her. “Union business,” she says. You know better than to ask.",
+      "speaker": "narrator"
+    },
+    "company": {
+      "src": "/audio/voice/company-82e2bf7971934674.mp3",
+      "text": "The harbor grows quiet. Nobody has to leave yet. Who do you want beside you?",
+      "speaker": "narrator"
+    },
+    "mira-close": {
+      "src": "/audio/voice/mira-close-dab49c2e8a78c146.mp3",
+      "text": "You remembered. That was mostly a joke.",
+      "speaker": "mira"
+    },
+    "mira-close-1": {
+      "src": "/audio/voice/mira-close-1-2d34854ee8210aab.mp3",
+      "text": "Mostly?",
+      "speaker": "you"
+    },
+    "mira-close-2": {
+      "src": "/audio/voice/mira-close-2-c95fee44fd90b47d.mp3",
+      "text": "She steps closer, but stops just short of touching you. The bravado slips. Underneath it is a woman hoping she read the room correctly.",
+      "speaker": "narrator"
+    },
+    "mira-close-3": {
+      "src": "/audio/voice/mira-close-3-8b43a2635741a2b8.mp3",
+      "text": "I’m excellent at leaving before things get real. I’d like to be bad at that for a minute. With you.",
+      "speaker": "mira"
+    },
+    "mira-close-4": {
+      "src": "/audio/voice/mira-close-4-e91b6ebfd52abce8.mp3",
+      "text": "I can spare more than a minute.",
+      "speaker": "you"
+    },
+    "mira-close-5": {
+      "src": "/audio/voice/mira-close-5-f235e4d010e71719.mp3",
+      "text": "Then… may I?",
+      "speaker": "mira"
+    },
+    "mira-consent": {
+      "src": "/audio/voice/mira-consent-8d855c21cdac085d.mp3",
+      "text": "Her hand hovers beside yours. For once, there is no punchline waiting.",
+      "speaker": "narrator"
+    },
+    "mira-kiss": {
+      "src": "/audio/voice/mira-kiss-b20196170ce481b5.mp3",
+      "text": "Her kiss is soft, warm, and briefly interrupted by a distant, indignant squeak. Mira laughs against your mouth.",
+      "speaker": "narrator"
+    },
+    "mira-kiss-1": {
+      "src": "/audio/voice/mira-kiss-1-ecf515f93527085a.mp3",
+      "text": "I specifically asked him not to make this weird.",
+      "speaker": "mira"
+    },
+    "mira-kiss-2": {
+      "src": "/audio/voice/mira-kiss-2-aca40c9e0279e1cf.mp3",
+      "text": "Next time, we leave the duck at home.",
+      "speaker": "you"
+    },
+    "mira-kiss-3": {
+      "src": "/audio/voice/mira-kiss-3-f99fe9f437207f32.mp3",
+      "text": "Next time. I like the sound of that.",
+      "speaker": "mira"
+    },
+    "mira-hand": {
+      "src": "/audio/voice/mira-hand-e3b107b972b74d6a.mp3",
+      "text": "She laces her fingers through yours. No performance. No daring escape. Just a steady, slightly cold hand.",
+      "speaker": "narrator"
+    },
+    "mira-hand-1": {
+      "src": "/audio/voice/mira-hand-1-0c716759b5081b24.mp3",
+      "text": "Here is good. I can do here.",
+      "speaker": "mira"
+    },
+    "mira-hand-2": {
+      "src": "/audio/voice/mira-hand-2-47012483909f2706.mp3",
+      "text": "Dinner tomorrow? No suspicious packages.",
+      "speaker": "you"
+    },
+    "mira-hand-3": {
+      "src": "/audio/voice/mira-hand-3-c869c8e26b987b9b.mp3",
+      "text": "I can promise dinner. Let’s not get unreasonable.",
+      "speaker": "mira"
+    },
+    "mira-slow": {
+      "src": "/audio/voice/mira-slow-ea0a089d5040e56c.mp3",
+      "text": "Tempting. But I think I’d like to know you without the imminent threat of customs first.",
+      "speaker": "mira"
+    },
+    "mira-slow-1": {
+      "src": "/audio/voice/mira-slow-1-ec113a9ed9749cd1.mp3",
+      "text": "Coffee tomorrow? You can tell me about the fourth aquarium.",
+      "speaker": "you"
+    },
+    "mira-slow-2": {
+      "src": "/audio/voice/mira-slow-2-7e779478f3d801b7.mp3",
+      "text": "That is second-date material. First date gets the jellyfish incident.",
+      "speaker": "mira"
+    },
+    "mira-slow-3": {
+      "src": "/audio/voice/mira-slow-3-28f065803840bd90.mp3",
+      "text": "She writes a number on your wrist. Beside it, a tiny duck. Some invitations don’t need to be dramatic.",
+      "speaker": "narrator"
+    },
+    "jun-close": {
+      "src": "/audio/voice/jun-close-3c8046e2ae07e186.mp3",
+      "text": "Right. I had a speech. There were transitions. One joke tested well with Mira, which should have worried me.",
+      "speaker": "jun"
+    },
+    "jun-close-1": {
+      "src": "/audio/voice/jun-close-1-b507060efb78908b.mp3",
+      "text": "You can skip to the part you mean.",
+      "speaker": "you"
+    },
+    "jun-close-2": {
+      "src": "/audio/voice/jun-close-2-f5a5b13c742544b8.mp3",
+      "text": "I keep fixing things because it gives me a reason to stay in a room. But with you, I’d like to stay without pretending something is broken.",
+      "speaker": "jun"
+    },
+    "jun-close-3": {
+      "src": "/audio/voice/jun-close-3-21040d96c1bbe572.mp3",
+      "text": "The envelope is still warm in your pocket. You don’t need to open it anymore.",
+      "speaker": "narrator"
+    },
+    "jun-close-4": {
+      "src": "/audio/voice/jun-close-4-9072f69f5489a726.mp3",
+      "text": "Would you have dinner with me? Somewhere the appliances can’t comment?",
+      "speaker": "jun"
+    },
+    "jun-consent": {
+      "src": "/audio/voice/jun-consent-e3738e837e94f598.mp3",
+      "text": "And, separately, because these are two different questions… can I hold your hand?",
+      "speaker": "jun"
+    },
+    "jun-hand": {
+      "src": "/audio/voice/jun-hand-99b77f9b3b85519a.mp3",
+      "text": "I like to be clear about scope.",
+      "speaker": "jun"
+    },
+    "jun-hand-1": {
+      "src": "/audio/voice/jun-hand-1-79597c79a8b0e660.mp3",
+      "text": "His hand finds yours. The terminal lights glitter in the water. For once, nothing needs fixing.",
+      "speaker": "narrator"
+    },
+    "jun-hand-2": {
+      "src": "/audio/voice/jun-hand-2-9af2f4a59363f800.mp3",
+      "text": "Any unresolved tickets I should know about?",
+      "speaker": "you"
+    },
+    "jun-hand-3": {
+      "src": "/audio/voice/jun-hand-3-afe8e749c4f4bc53.mp3",
+      "text": "One. Dinner reservation. High priority.",
+      "speaker": "jun"
+    },
+    "jun-kiss": {
+      "src": "/audio/voice/jun-kiss-ac192fb979fb470e.mp3",
+      "text": "Yes. That is… extremely yes.",
+      "speaker": "jun"
+    },
+    "jun-kiss-1": {
+      "src": "/audio/voice/jun-kiss-1-83381bdb2bdc14fb.mp3",
+      "text": "He leans in slowly enough for you to change your mind. You don’t. Somewhere below deck, a toaster gives a celebratory ding.",
+      "speaker": "narrator"
+    },
+    "jun-kiss-2": {
+      "src": "/audio/voice/jun-kiss-2-d72cf4bb1970c1e1.mp3",
+      "text": "Did you rig the toaster?",
+      "speaker": "you"
+    },
+    "jun-kiss-3": {
+      "src": "/audio/voice/jun-kiss-3-3ccfc63a7b0e77e3.mp3",
+      "text": "No. And I am choosing not to investigate.",
+      "speaker": "jun"
+    },
+    "jun-slow": {
+      "src": "/audio/voice/jun-slow-fefea2540f97f9cb.mp3",
+      "text": "Breakfast. I wanted to ask if you’d get breakfast with me after shift. Nothing complicated.",
+      "speaker": "jun"
+    },
+    "jun-slow-1": {
+      "src": "/audio/voice/jun-slow-1-a2d9bfd42cfe620f.mp3",
+      "text": "After tonight, complicated is banned until at least noon.",
+      "speaker": "you"
+    },
+    "jun-slow-2": {
+      "src": "/audio/voice/jun-slow-2-cb3ccb5dda28911d.mp3",
+      "text": "Good. There’s a place with terrible pancakes and very good windows.",
+      "speaker": "jun"
+    },
+    "jun-slow-3": {
+      "src": "/audio/voice/jun-slow-3-a4395ceadc7e7f94.mp3",
+      "text": "You open the envelope together. Inside: a hand-drawn map, and a very nervous little smiley face. It feels like a beginning.",
+      "speaker": "narrator"
+    },
+    "crew": {
+      "src": "/audio/voice/crew-5c498b7114d887fe.mp3",
+      "text": "Captain! Bring the union representative. We’re ordering breakfast.",
+      "speaker": "you"
+    },
+    "crew-1": {
+      "src": "/audio/voice/crew-1-21b5cc9bbe3c3c2b.mp3",
+      "text": "He’s a duck, Robin.",
+      "speaker": "sable"
+    },
+    "crew-2": {
+      "src": "/audio/voice/crew-2-30d60ceff5e5d4bc.mp3",
+      "text": "And yet he has the best benefits here.",
+      "speaker": "you"
+    },
+    "crew-3": {
+      "src": "/audio/voice/crew-3-0597cca090316a01.mp3",
+      "text": "Sable returns with four mugs. Mira steals the biscuit from Jun’s lid. He had brought an extra. Nobody is surprised.",
+      "speaker": "narrator"
+    },
+    "crew-4": {
+      "src": "/audio/voice/crew-4-192b2e8f04b71884.mp3",
+      "text": "Same time tomorrow? Less crime?",
+      "speaker": "mira"
+    },
+    "crew-5": {
+      "src": "/audio/voice/crew-5-14bfbfc7eaf6e05b.mp3",
+      "text": "Let’s set realistic goals.",
+      "speaker": "jun"
+    },
+    "crew-receipts": {
+      "src": "/audio/voice/crew-receipts-adf9306e9e41acb1.mp3",
+      "text": "By sunrise, the redacted contract is on every news feed. By breakfast, the auction is canceled. By lunch, the mayor has blamed a printer.",
+      "speaker": "narrator"
+    },
+    "crew-receipts-1": {
+      "src": "/audio/voice/crew-receipts-1-488cc3e8ab8636ed.mp3",
+      "text": "A fine night’s work. Nobody tell payroll it was fun.",
+      "speaker": "sable"
+    },
+    "crew-quiet": {
+      "src": "/audio/voice/crew-quiet-7aa88b4913cfe5ea.mp3",
+      "text": "By sunrise, the letters have all gone home. The city hasn’t worked out why its expensive archive now contains eight thousand copies of a duck emoji.",
+      "speaker": "narrator"
+    },
+    "crew-quiet-1": {
+      "src": "/audio/voice/crew-quiet-1-f8f2eff956d19861.mp3",
+      "text": "I added a little personal touch.",
+      "speaker": "mira"
+    },
+    "crew-quiet-2": {
+      "src": "/audio/voice/crew-quiet-2-5ecbc520ca73a149.mp3",
+      "text": "Of course you did.",
+      "speaker": "sable"
+    },
+    "ending-mira": {
+      "src": "/audio/voice/ending-mira-010986df5d21d542.mp3",
+      "text": "Tomorrow, she shows up on time. No escape route. Two takeaway coffees. There is a suspicious package, but this one contains pastries. Some habits deserve a second chance.",
+      "speaker": "mira"
+    },
+    "ending-mira-slow": {
+      "src": "/audio/voice/ending-mira-slow-225af479217b3941.mp3",
+      "text": "Her first message arrives at 2:07 AM: “For the record, the jellyfish was not my fault.” You smile for the entire ferry ride home. There is plenty of time for the rest.",
+      "speaker": "mira"
+    },
+    "ending-jun": {
+      "src": "/audio/voice/ending-jun-1d144329d0517eb4.mp3",
+      "text": "The next evening, Jun meets you without a toolbox. He looks a little defenseless. You take his hand before the vending machine can offer advice. Dinner is very good. The windows are even better.",
+      "speaker": "jun"
+    },
+    "ending-jun-slow": {
+      "src": "/audio/voice/ending-jun-slow-4c9e1853948dca70.mp3",
+      "text": "The pancakes are exactly as terrible as promised. The conversation lasts three hours. When he asks if you’d like to do this again, neither of you bothers pretending it’s about breakfast.",
+      "speaker": "jun"
+    },
+    "ending-crew": {
+      "src": "/audio/voice/ending-crew-5fbe7bc8bbcd2a8a.mp3",
+      "text": "The clock still stops at 1:59. There is always an extra mug behind the counter. The city calls you a transport irregularity. You prefer “friends.” Sir Quacks-a-Lot has been elected treasurer.",
+      "speaker": "sable"
+    }
+  }
+}

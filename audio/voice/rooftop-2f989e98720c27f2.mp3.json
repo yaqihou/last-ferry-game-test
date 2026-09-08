@@ -1,0 +1,13 @@
+{
+  "id": "rooftop",
+  "hash": "2f989e98720c27f2649621298a6d34d043f19843255ecf255dbb1656207b39b7",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 138,
+  "character_cost": 138,
+  "request_id": "9STgVnmTeanpeNz2zxEJ",
+  "generated_at": "2026-09-08T07:34:33.459Z",
+  "bytes": 126685,
+  "audio_sha256": "ddb4f7d561347134ac8f1c29606a611a7f79637aef69fb1114dc2b79e7950ed2"
+}

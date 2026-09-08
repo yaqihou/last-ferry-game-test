@@ -1,0 +1,13 @@
+{
+  "id": "mira-kiss-2",
+  "hash": "aca40c9e0279e1cfc863be4bc5351f7d77a788abda0815597e30f92c42430c07",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 37,
+  "character_cost": 37,
+  "request_id": "MPkKKo1FiTayCZAqQK3Y",
+  "generated_at": "2026-09-08T07:35:14.136Z",
+  "bytes": 31391,
+  "audio_sha256": "d31dab8eff5d43d21c92cf390d8e70e1ad22ca4b91dd7e45c09d0d98bda25b98"
+}

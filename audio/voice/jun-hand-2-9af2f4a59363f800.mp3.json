@@ -1,0 +1,13 @@
+{
+  "id": "jun-hand-2",
+  "hash": "9af2f4a59363f800b640ef39fda7a83f78051878405e07e56381fc9929c1d4d6",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 43,
+  "character_cost": 43,
+  "request_id": "DC9Jakiql5nl6kAH2Ad3",
+  "generated_at": "2026-09-08T07:35:36.488Z",
+  "bytes": 34316,
+  "audio_sha256": "ba6cbd0e735800d50bf57feb89ddcfd46868ddae834344de43f1efe6864038ac"
+}

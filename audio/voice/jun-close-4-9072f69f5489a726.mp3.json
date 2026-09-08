@@ -1,0 +1,13 @@
+{
+  "id": "jun-close-4",
+  "hash": "9072f69f5489a72631e55a9d189559302b659c582490910b33eb4ac687c3a534",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 70,
+  "character_cost": 70,
+  "request_id": "FAboBmsX2uO0vasw0HwR",
+  "generated_at": "2026-09-08T07:35:31.559Z",
+  "bytes": 55214,
+  "audio_sha256": "c81bb7f69345bd233e710d072cbc5bace0d4a8af2798a2c05645b1dbb2bd8250"
+}

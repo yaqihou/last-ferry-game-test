@@ -1,0 +1,13 @@
+{
+  "id": "private-letter-2",
+  "hash": "abd41e410424d1c042265668a423ad9cf9197a0e2b696510223fe28dbd2088c2",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 38,
+  "character_cost": 38,
+  "request_id": "vQe2T1MfnXtVpYCqBH7v",
+  "generated_at": "2026-09-08T07:33:55.909Z",
+  "bytes": 38914,
+  "audio_sha256": "d8b3abc98789999d77c43ce2b36f6410cfc8dd2895a23c92cf7376698fece99d"
+}

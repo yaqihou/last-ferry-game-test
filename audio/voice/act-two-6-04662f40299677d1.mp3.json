@@ -1,0 +1,13 @@
+{
+  "id": "act-two-6",
+  "hash": "04662f40299677d12e2f36785782c1610c843236f2409036b72210d515fd3009",
+  "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+  "voice_name": "Lily",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 62,
+  "character_cost": 62,
+  "request_id": "B63fEK9cHxbkWAqV1aYn",
+  "generated_at": "2026-09-08T07:33:21.492Z",
+  "bytes": 62737,
+  "audio_sha256": "b9b97a591a199d0f7d12c937a15e7b7777092c69250601b6fc19e76c0697273d"
+}

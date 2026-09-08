@@ -1,0 +1,13 @@
+{
+  "id": "refund-1",
+  "hash": "cc9ad345235c8753dc1b9e512ab9c955832086e40224dfee7cf38e7fc5c68302",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 30,
+  "character_cost": 30,
+  "request_id": "gbjt72YMiLqABrEA6A1x",
+  "generated_at": "2026-09-08T07:32:20.467Z",
+  "bytes": 24285,
+  "audio_sha256": "35a453e71a12c81c742250d7622e953319c8404aab614fb1ffd2d571489f7b22"
+}

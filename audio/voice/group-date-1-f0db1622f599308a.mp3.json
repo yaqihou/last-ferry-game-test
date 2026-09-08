@@ -1,0 +1,13 @@
+{
+  "id": "group-date-1",
+  "hash": "f0db1622f599308a73ff619284dbf08a531915c58cd3b254f51ae7b2a1630a26",
+  "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+  "voice_name": "Lily",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 30,
+  "character_cost": 30,
+  "request_id": "nsLioh9P184ZWukYvQnF",
+  "generated_at": "2026-09-08T07:34:13.066Z",
+  "bytes": 32226,
+  "audio_sha256": "7dcdfeb1a934044a3f85ee01428604dd5e8e0418b47b57d6432d294e1524ebc1"
+}

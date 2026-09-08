@@ -1,0 +1,13 @@
+{
+  "id": "mira-slow",
+  "hash": "ea0a089d5040e56c543d7bbdf6b4710e658acb685ffab7e3e4b673977f1aabe8",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 88,
+  "character_cost": 88,
+  "request_id": "hRjNbUw5czXoxM0kCsMJ",
+  "generated_at": "2026-09-08T07:35:21.156Z",
+  "bytes": 74440,
+  "audio_sha256": "71e3eb0d52a6b960aefe430abea38fb468a1addd16b05720bc7d9921cf3ed5ac"
+}

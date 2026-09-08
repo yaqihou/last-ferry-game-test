@@ -1,0 +1,13 @@
+{
+  "id": "manifest-7",
+  "hash": "59ba69cd4c0e480e7a34153ef2581537fdc00fec4fc0a765c926c2ea37a7e399",
+  "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+  "voice_name": "Lily",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 84,
+  "character_cost": 84,
+  "request_id": "ElqeZeZ1qwhDfR7mWpV4",
+  "generated_at": "2026-09-08T07:32:58.544Z",
+  "bytes": 91577,
+  "audio_sha256": "414cb4023d7047cee7542f3579ba81d00acd659ac762ebeea39383fd228baf7c"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mira-arrives-5",
+  "hash": "7b4adf31515ba6fc14ac3206b0ca3cf64eb3cb1e505ef35537171040d4887afe",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 150,
+  "character_cost": 150,
+  "request_id": "0L25rfx17Xr1hOzyYAFK",
+  "generated_at": "2026-09-08T07:32:32.587Z",
+  "bytes": 151763,
+  "audio_sha256": "4fec3c6f1c39c0dfa184b60989dd362e6649a15adb025c5d31bb9674802c3a16"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "privacy-1",
+  "hash": "912d9d8bf9969defa7f46c424444a1bfeacf83e8b97d6bcd4da04914e69486df",
+  "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+  "voice_name": "Lily",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 70,
+  "character_cost": 70,
+  "request_id": "CpIySA6BUI2Jvet3K9zw",
+  "generated_at": "2026-09-08T07:33:32.948Z",
+  "bytes": 83635,
+  "audio_sha256": "e606a9f556d2bd4f30aff28b5d4b30c23b04994e9333e255f4b0cf293aa1ad3b"
+}

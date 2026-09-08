@@ -1,0 +1,13 @@
+{
+  "id": "receipts",
+  "hash": "4aadbd3191fd3a73cd862ecc3055e73d3933202f7278e4344b8ea626b620d34b",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 104,
+  "character_cost": 104,
+  "request_id": "GZSg7MLFl9jvRVHhxjV1",
+  "generated_at": "2026-09-08T07:34:41.771Z",
+  "bytes": 91577,
+  "audio_sha256": "6b5d4fd06af481b62ad1d235faa291eebb9800f17069c0a5feca3744a4b68c4e"
+}

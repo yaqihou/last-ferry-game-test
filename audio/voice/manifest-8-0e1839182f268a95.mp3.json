@@ -1,0 +1,13 @@
+{
+  "id": "manifest-8",
+  "hash": "0e1839182f268a95f6ec80ee658ce9a7bb4236bda0b244d5f8c02018e1a66da8",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 27,
+  "character_cost": 27,
+  "request_id": "6djcpMK4OgKIh2Cb1Wp2",
+  "generated_at": "2026-09-08T07:32:59.501Z",
+  "bytes": 26375,
+  "audio_sha256": "0e1e2b80230d828776af88a291d8da39e6a8302d210f4f0d1828bc333b57356c"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dinner-1",
+  "hash": "f9a70fa1de6ded46981313c519774f748a6d40341592f9a497f0d42e4bb8c937",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 55,
+  "character_cost": 55,
+  "request_id": "CwDI6g3Rne0xy0Omt6uE",
+  "generated_at": "2026-09-08T07:32:38.334Z",
+  "bytes": 48527,
+  "audio_sha256": "1d3347a6f5b188c3a6649420b70d93b82805515a4d563e86dbae2f11cc4b39dd"
+}

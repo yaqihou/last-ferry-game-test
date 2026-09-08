@@ -1,0 +1,13 @@
+{
+  "id": "rooftop-3",
+  "hash": "05eaa7887af7f4464aa88d80b6cca985d55a98ff23d00586a8598696d445826e",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 21,
+  "character_cost": 21,
+  "request_id": "IKH6NH07Hsrk03B5EGwZ",
+  "generated_at": "2026-09-08T07:34:37.808Z",
+  "bytes": 20942,
+  "audio_sha256": "b11ed3e889fb4662382712d9ec533c919985568c655b0dd2a09fc6a585aa387b"
+}

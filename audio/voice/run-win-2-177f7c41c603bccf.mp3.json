@@ -1,0 +1,13 @@
+{
+  "id": "run-win-2",
+  "hash": "177f7c41c603bccf0d5bc1521aadec2cd34a461db0a82ebae116fc698c8d46e5",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 47,
+  "character_cost": 47,
+  "request_id": "8SiLCinLeD326n4jDlj8",
+  "generated_at": "2026-09-08T07:34:23.873Z",
+  "bytes": 51035,
+  "audio_sha256": "6b570190baeb962684da09a67a234175e1b543a30f8020afb2bcc25b8f2dc405"
+}

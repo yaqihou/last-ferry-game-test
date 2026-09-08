@@ -1,0 +1,13 @@
+{
+  "id": "crew-5",
+  "hash": "14bfbfc7eaf6e05b632885c9d0158bb0eb270e70004d7645f167dfcdc7222147",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 26,
+  "character_cost": 26,
+  "request_id": "qDqowchHu4675yHYgAI2",
+  "generated_at": "2026-09-08T07:35:54.536Z",
+  "bytes": 27211,
+  "audio_sha256": "0644ec178446b1bf3a01549fe26064b8bc7108d7b4faf42c91e3382bc50d5253"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "inspector",
+  "hash": "7d54fde828ceadee1eace2a12f69d1ddc8c97c1357b9ae3b2271b7c07ca17e27",
+  "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+  "voice_name": "Alice",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 87,
+  "character_cost": 87,
+  "request_id": "uYK2fP3WSMb8m9vnN4OY",
+  "generated_at": "2026-09-08T07:33:57.393Z",
+  "bytes": 98264,
+  "audio_sha256": "18810a148250400361bf5a48b20810b387a4e2ee1d52311b88be5edf864aa2e1"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "private-letter",
+  "hash": "8cd0e2d3796ad618d3dd8331f066019d46468e31c0d4049f67e4c789af7d0027",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 69,
+  "character_cost": 69,
+  "request_id": "ozvlaMw93TklMCbqSP4P",
+  "generated_at": "2026-09-08T07:33:53.995Z",
+  "bytes": 64409,
+  "audio_sha256": "464ef401a2be4ed345a312849f8e45a477b17dd33993c9b2a029e5bd99407d8b"
+}

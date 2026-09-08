@@ -1,0 +1,13 @@
+{
+  "id": "crew-quiet-2",
+  "hash": "5ecbc520ca73a149ee85bdbf0c8c5b911f118c209534ea1536553c1b236b8f60",
+  "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+  "voice_name": "Lily",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 18,
+  "character_cost": 18,
+  "request_id": "yLcECFRWKaHxTF4CZZxq",
+  "generated_at": "2026-09-08T07:36:01.405Z",
+  "bytes": 20942,
+  "audio_sha256": "cdadd60cc3f6659050e1c679916fa3da71728f1c6b8ee3b4a4666af37906db9f"
+}

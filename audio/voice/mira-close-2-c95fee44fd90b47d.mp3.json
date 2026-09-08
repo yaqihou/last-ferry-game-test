@@ -1,0 +1,13 @@
+{
+  "id": "mira-close-2",
+  "hash": "c95fee44fd90b47d30c9c55fc025f2fbb507dd73570b722b9c849796658c19fd",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 135,
+  "character_cost": 135,
+  "request_id": "sOQWVurXHjJG7lEEEWYi",
+  "generated_at": "2026-09-08T07:35:05.557Z",
+  "bytes": 128775,
+  "audio_sha256": "e2b0e22b26166584028522b433e40bd8c920359aae6629fab33251afe7dcedc2"
+}

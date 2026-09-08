@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "tracks": {
+    "terminal": "/audio/bgm/Terminal.mp3",
+    "duck": "/audio/bgm/A Very Legal Duck.mp3",
+    "dawn": "/audio/bgm/Things Left Unsent.mp3",
+    "ending": "/audio/bgm/Somewhere Less Lonely.mp3",
+    "arcade": "/audio/bgm/Absolutely Licensed to Drive.mp3"
+  }
+}

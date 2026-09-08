@@ -1,0 +1,13 @@
+{
+  "id": "unsent",
+  "hash": "e054b5958ce332f6c2c02decb81c4a3f71835ae24ce4ea4a007aa2998b5555e2",
+  "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+  "voice_name": "Alice",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 67,
+  "character_cost": 67,
+  "request_id": "f4erLR2Hqtt0ueUmnW95",
+  "generated_at": "2026-09-08T07:34:49.276Z",
+  "bytes": 87815,
+  "audio_sha256": "5331f809b0679ff4bcb0b0411bdc9ec2226ddadac57b2a7bb80388650ac86ab5"
+}

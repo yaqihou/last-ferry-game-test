@@ -1,0 +1,13 @@
+{
+  "id": "mira-slow-1",
+  "hash": "ec113a9ed9749cd19996377a6f389881a6ceac4d71d64e5b6a594da636123ab1",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 59,
+  "character_cost": 59,
+  "request_id": "UvVXNbqoPFvVTo6XilhU",
+  "generated_at": "2026-09-08T07:35:22.314Z",
+  "bytes": 50199,
+  "audio_sha256": "6a32b0a3fb86e1842fb79d76adcb1eb5abc380ceaab913d9fe4f02c18501dee5"
+}

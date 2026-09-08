@@ -1,0 +1,13 @@
+{
+  "id": "manifest-6",
+  "hash": "bda25c337cc828c146c719a6bbc09f0bde9cae9ca1a046da0165a7f5d3947248",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 43,
+  "character_cost": 43,
+  "request_id": "FMz25UW39XZuXXvxv5Yh",
+  "generated_at": "2026-09-08T07:32:57.166Z",
+  "bytes": 49363,
+  "audio_sha256": "342407fc0eb747fc6a1f93bcf4a926f90cd53a9c8854e9e386b1d0a6f9cb3958"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mira-kiss",
+  "hash": "b20196170ce481b5ee17b4d22f6360d434b30ee2ed3c454b22f315f406e6b1f2",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 111,
+  "character_cost": 111,
+  "request_id": "xQT4Bs3s4kFfStdexoHP",
+  "generated_at": "2026-09-08T07:35:11.913Z",
+  "bytes": 125849,
+  "audio_sha256": "a24dfe70989e0d13afc6958479950d5ca142fea7d71ad591cfd6c813a86be1d2"
+}

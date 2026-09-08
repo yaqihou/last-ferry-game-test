@@ -1,0 +1,13 @@
+{
+  "id": "group-date-2",
+  "hash": "3b6a1e690c7f1d37738e30a1f264eccaecf10fa20be9fbeb230aa3d108b6a83a",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 107,
+  "character_cost": 107,
+  "request_id": "8eenV1GZSdUtXEaySHqJ",
+  "generated_at": "2026-09-08T07:34:14.628Z",
+  "bytes": 112475,
+  "audio_sha256": "ca814de316aa03e1bb8670d92f89f3add2fb1aa432b77416a764f97ff0469e7d"
+}

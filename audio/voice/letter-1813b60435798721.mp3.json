@@ -1,0 +1,13 @@
+{
+  "id": "letter",
+  "hash": "1813b604357987214521885f6f19d1495f8196139d38fd15c0d927d7f75455dc",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 79,
+  "character_cost": 79,
+  "request_id": "5Rc61ReTO2aYVsj6FC18",
+  "generated_at": "2026-09-08T07:33:38.556Z",
+  "bytes": 91159,
+  "audio_sha256": "a0bf32e7544322f76a411d01688122c738f63cda5436893f86e3a1f9414da24d"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "jun-kiss-1",
+  "hash": "83381bdb2bdc14fbc5e1f9ddff338359de2c18850433e2a09183fb0a075752ed",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 123,
+  "character_cost": 123,
+  "request_id": "NmTefAy2BTaW2f6O6D9t",
+  "generated_at": "2026-09-08T07:35:40.185Z",
+  "bytes": 122924,
+  "audio_sha256": "658fcf1bbea1cb8ff77fe9bce0b49cd20aac15cb1262b05e512c6a97600a510c"
+}

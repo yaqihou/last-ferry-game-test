@@ -1,0 +1,13 @@
+{
+  "id": "crew-receipts",
+  "hash": "adf9306e9e41acb1da79dfb58e275865e585a65c34c02ec0ce6fac924e512092",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 137,
+  "character_cost": 137,
+  "request_id": "TMPAaCTauYDegsfX2dfV",
+  "generated_at": "2026-09-08T07:35:56.358Z",
+  "bytes": 142986,
+  "audio_sha256": "d7ddbadcd8bd285b9b08f24cb5764595e6acfc512daec3308ff58b373757194d"
+}

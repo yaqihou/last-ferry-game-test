@@ -1,0 +1,13 @@
+{
+  "id": "act-two-8",
+  "hash": "1dc3ec6a2b48811d46bf576f684f5906ec9a15c40077d4c3b267df98c49a803a",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 46,
+  "character_cost": 46,
+  "request_id": "a3pFvUk9mUVCnTHGcQgP",
+  "generated_at": "2026-09-08T07:33:24.114Z",
+  "bytes": 41839,
+  "audio_sha256": "b8f6ef6dbe76405825a8634a3848cf0c74209d76bfad94bea8d3c1443fe79886"
+}

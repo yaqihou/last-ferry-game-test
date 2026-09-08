@@ -1,0 +1,13 @@
+{
+  "id": "ending-mira-slow",
+  "hash": "225af479217b39410142df4eba27fc5f48d922e7faa7edbcb7085cfa36173215",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 167,
+  "character_cost": 167,
+  "request_id": "iyhic6BvPv0Tt9lM6H3W",
+  "generated_at": "2026-09-08T07:36:05.399Z",
+  "bytes": 168063,
+  "audio_sha256": "b2cd0add219f91124ed46a947559395dabc357dd9d4dfecbbb9c60cc62c55907"
+}

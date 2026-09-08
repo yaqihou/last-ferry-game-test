@@ -1,0 +1,13 @@
+{
+  "id": "retreat-1",
+  "hash": "71edba57c5ecadcdbdc5df564a945affd415b40a49f949a9207d0b01a3352c3e",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 52,
+  "character_cost": 52,
+  "request_id": "IMcG9jGJ7MnhiUlsnhwT",
+  "generated_at": "2026-09-08T07:34:05.033Z",
+  "bytes": 53960,
+  "audio_sha256": "d1601dbbccfac6072f2a08c015cd6adfcd0dd893e8160c2009fec36db64d2048"
+}

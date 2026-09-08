@@ -1,0 +1,13 @@
+{
+  "id": "rooftop-4",
+  "hash": "758f3d985e62b528869b537200d5b86aa06baea51d92771ca3e62d2214998d78",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 79,
+  "character_cost": 79,
+  "request_id": "Mf8c5flYMjRC1jv2uW78",
+  "generated_at": "2026-09-08T07:34:39.050Z",
+  "bytes": 70261,
+  "audio_sha256": "20c5209d918e3298daf1882ffb558fa3cc262e8b22972259671a1390646a29de"
+}

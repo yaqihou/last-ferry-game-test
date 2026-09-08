@@ -1,0 +1,13 @@
+{
+  "id": "evidence",
+  "hash": "83b40809a7d0c562b658eeaa180f0074db07b6b78024ef88e811071d2eca2f76",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 81,
+  "character_cost": 81,
+  "request_id": "QUAZM41KEd4QKMx2jRXB",
+  "generated_at": "2026-09-08T07:34:40.362Z",
+  "bytes": 75276,
+  "audio_sha256": "3fa225aa46ec111c76c862470203f1b61678055a00cf9d94d409f3c3c1a22a47"
+}

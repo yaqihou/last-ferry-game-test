@@ -1,0 +1,13 @@
+{
+  "id": "jun-kiss-2",
+  "hash": "d72cf4bb1970c1e17b5549905456e0af388d778b62ad9e19cf8ab50dc2e2f649",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 24,
+  "character_cost": 24,
+  "request_id": "bdKoo91ycBF5EWYj5Gz9",
+  "generated_at": "2026-09-08T07:35:41.107Z",
+  "bytes": 21777,
+  "audio_sha256": "4e41cbc0fcb8641cfb1b709da138375f4f3cb9f085d9f31accec1d4a4aea2c31"
+}

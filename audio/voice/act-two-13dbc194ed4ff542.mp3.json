@@ -1,0 +1,13 @@
+{
+  "id": "act-two",
+  "hash": "13dbc194ed4ff5426dd170dfe1c18497bd16a0a039007ed8149703c3bffc26b3",
+  "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+  "voice_name": "Alice",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 87,
+  "character_cost": 87,
+  "request_id": "oQjYWmZUjx2nSKZK5IOj",
+  "generated_at": "2026-09-08T07:33:13.391Z",
+  "bytes": 97010,
+  "audio_sha256": "0019f1c6e5d66472b2ed374bce5e36bae39cc23ed48f16ee6689a7134483a846"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "jun-close-3",
+  "hash": "21040d96c1bbe572a0c4702d1a482209c0a2aed3ab0298916fc073c3e7bb2a1a",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 77,
+  "character_cost": 77,
+  "request_id": "IBELRs9Dkp1aBg9itW2H",
+  "generated_at": "2026-09-08T07:35:30.382Z",
+  "bytes": 72351,
+  "audio_sha256": "134ee290b9ac6419ac6244fe775c509dd5dccf4605da7acefb514d9017f88e0e"
+}

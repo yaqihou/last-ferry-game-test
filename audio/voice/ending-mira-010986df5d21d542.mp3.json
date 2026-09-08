@@ -1,0 +1,13 @@
+{
+  "id": "ending-mira",
+  "hash": "010986df5d21d542881a06b97f136a918c044efa1c33c3293c8773cace75eca4",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 170,
+  "character_cost": 170,
+  "request_id": "unELvocuzGYTHWc7rhLh",
+  "generated_at": "2026-09-08T07:36:03.402Z",
+  "bytes": 167645,
+  "audio_sha256": "e6c66f8900f1f19e51f8e952bb18015783afaad9af2073205260c619d83edb47"
+}

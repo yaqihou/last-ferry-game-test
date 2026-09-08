@@ -1,0 +1,13 @@
+{
+  "id": "departure-2",
+  "hash": "c90dd1c98abd34c1858b8a21b7ba16768bb58d02fcd97511898ed8f354c442fa",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 82,
+  "character_cost": 82,
+  "request_id": "qAk37CDN0VqEF4YCra1I",
+  "generated_at": "2026-09-08T07:34:18.952Z",
+  "bytes": 66499,
+  "audio_sha256": "426a826c1e50c8257f2cdf96eb809c89f4d66b8d3539dcdb1dfeef0ba5be1423"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "jun-consent",
+  "hash": "e3738e837e94f5983e1f785a822cc4cd0179ab59d153a8625231b18372f1e321",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 81,
+  "character_cost": 81,
+  "request_id": "P3v5euTqpFKOcPNJCK42",
+  "generated_at": "2026-09-08T07:35:32.985Z",
+  "bytes": 85725,
+  "audio_sha256": "2255ae2ef453a06f0328ca9630dc8446c8c629ffd78161108c63c2e875284b87"
+}

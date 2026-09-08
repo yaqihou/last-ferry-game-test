@@ -1,0 +1,13 @@
+{
+  "id": "sweet-1",
+  "hash": "dd84e7bbaab1eaf353ebae27ebf4207a89db7dad32e50b114c8b39ec88f99751",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 86,
+  "character_cost": 86,
+  "request_id": "iGilplkTy8sQnAzBEWqo",
+  "generated_at": "2026-09-08T07:32:18.374Z",
+  "bytes": 86561,
+  "audio_sha256": "45a3e55128b7663d70e9814b51f6b2840511240f53cedda65242d718207905f6"
+}

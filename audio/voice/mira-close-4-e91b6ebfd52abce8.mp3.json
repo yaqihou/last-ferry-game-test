@@ -1,0 +1,13 @@
+{
+  "id": "mira-close-4",
+  "hash": "e91b6ebfd52abce886e260248c6901f54196f0a1bab82f59ec07a99ba5966a05",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 31,
+  "character_cost": 31,
+  "request_id": "W41UTQ6he8FZnJCHEQss",
+  "generated_at": "2026-09-08T07:35:07.868Z",
+  "bytes": 24703,
+  "audio_sha256": "85bf708030eb61623328774d356b77bb3c34db29b0ce6d126944a21c3b45966c"
+}

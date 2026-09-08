@@ -1,0 +1,13 @@
+{
+  "id": "mira-close-5",
+  "hash": "f235e4d010e717192f68587ace9ce2ed401fc7e0c28ebc0c62f143055511698f",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 12,
+  "character_cost": 12,
+  "request_id": "kMcQQ9WjudvzCj78OzHF",
+  "generated_at": "2026-09-08T07:35:08.994Z",
+  "bytes": 20942,
+  "audio_sha256": "2c29c4dedbf37595ca9e44c9861c11a99edef104521620ae655cb50b6b251378"
+}

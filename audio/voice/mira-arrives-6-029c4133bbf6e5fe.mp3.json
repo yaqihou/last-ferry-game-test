@@ -1,0 +1,13 @@
+{
+  "id": "mira-arrives-6",
+  "hash": "029c4133bbf6e5fe67bb537a739f746a7165f77fc449bf20e0f4f063515e196f",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 5,
+  "character_cost": 5,
+  "request_id": "OCWYfJm7g191TVmjYePl",
+  "generated_at": "2026-09-08T07:32:33.466Z",
+  "bytes": 13000,
+  "audio_sha256": "13840c0fba619d76950f0329eaee8ad642c7266102d70827a9a666a930633b82"
+}

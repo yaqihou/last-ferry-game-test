@@ -1,0 +1,13 @@
+{
+  "id": "mira-hand-2",
+  "hash": "47012483909f2706cfdfc84cb4239056aac3fa063cf743521824dd7b503195a2",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 40,
+  "character_cost": 40,
+  "request_id": "3BbqeEQNLcQQXIK3CWm3",
+  "generated_at": "2026-09-08T07:35:18.755Z",
+  "bytes": 40586,
+  "audio_sha256": "8a5a0f23c2e76235e172463172ae76c22ce2e18394ea86f3517fb592bc19b295"
+}

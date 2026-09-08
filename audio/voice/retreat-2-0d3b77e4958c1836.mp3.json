@@ -1,0 +1,13 @@
+{
+  "id": "retreat-2",
+  "hash": "0d3b77e4958c1836890d55e54c32f99e9c2cb98d66abbd58e4c2019263f5b56c",
+  "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+  "voice_name": "Lily",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 22,
+  "character_cost": 22,
+  "request_id": "ZsKI0WKMDj5HzSxhodgX",
+  "generated_at": "2026-09-08T07:34:05.977Z",
+  "bytes": 24285,
+  "audio_sha256": "97e0f2674d8a98e768f7deefc5ebeabd0d19e21e5bc4f73d56c88d8d29f3f073"
+}

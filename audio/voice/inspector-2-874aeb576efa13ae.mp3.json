@@ -1,0 +1,13 @@
+{
+  "id": "inspector-2",
+  "hash": "874aeb576efa13ae2c806579de97344f7d885344ebe73e879fb5e9122e46703f",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 120,
+  "character_cost": 120,
+  "request_id": "0raw0E0ZiN2NBLh3Pl95",
+  "generated_at": "2026-09-08T07:34:00.096Z",
+  "bytes": 115400,
+  "audio_sha256": "c226c7b2fb8803a0ad5088b88e2ecfb6019aaddc5f8ff21721d363b4f4e29266"
+}

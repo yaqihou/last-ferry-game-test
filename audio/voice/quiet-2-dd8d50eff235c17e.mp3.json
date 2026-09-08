@@ -1,0 +1,13 @@
+{
+  "id": "quiet-2",
+  "hash": "dd8d50eff235c17ee4f2c227d9d1603e3c837ea3173ead94ca0275f0b3f89bb6",
+  "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+  "voice_name": "Lily",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 68,
+  "character_cost": 68,
+  "request_id": "SfAXSIVqKFaygT7asosx",
+  "generated_at": "2026-09-08T07:34:47.911Z",
+  "bytes": 63573,
+  "audio_sha256": "8bd1b370fb76aa83cadcee14dc23588f766dc11680d77039a1cefd0bb284e716"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "jun-slow-2",
+  "hash": "cb3ccb5dda28911d65cd12477e5ec5ae6d026260246882923d63cedb23345035",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 67,
+  "character_cost": 67,
+  "request_id": "lc7xqYS2vjB3yCXPXNOl",
+  "generated_at": "2026-09-08T07:35:46.158Z",
+  "bytes": 61066,
+  "audio_sha256": "e70208c1a31b0c5b24abc2dcfa3f9523d13dd28214a94dc172d7b9380c6ed148"
+}

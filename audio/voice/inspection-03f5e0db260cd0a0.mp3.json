@@ -1,0 +1,13 @@
+{
+  "id": "inspection",
+  "hash": "03f5e0db260cd0a0c29de7a0ea9dfc1f10421d6264e672f999a7aa5806fd087a",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 40,
+  "character_cost": 40,
+  "request_id": "4UOk6DUZ6LIMoGd7uvDW",
+  "generated_at": "2026-09-08T07:32:40.579Z",
+  "bytes": 36824,
+  "audio_sha256": "d498dd8fb04a76ade87fe3222ab3696e7ae46a968fd821b65f43ba2c26071bd2"
+}

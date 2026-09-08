@@ -1,0 +1,13 @@
+{
+  "id": "rooftop-2",
+  "hash": "35807cdb7571807b97a0519d6d3c067a2f459d5974114275ba6248d3a5a3e500",
+  "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+  "voice_name": "Lily",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 132,
+  "character_cost": 132,
+  "request_id": "Sk2OD8mp25yeNvFpdm6t",
+  "generated_at": "2026-09-08T07:34:36.851Z",
+  "bytes": 131701,
+  "audio_sha256": "5ec16363090c36fbb74b3649139d0b03af3acfc3dc3ef0965129a66ab697e513"
+}

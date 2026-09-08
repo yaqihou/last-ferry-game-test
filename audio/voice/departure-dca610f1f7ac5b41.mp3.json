@@ -1,0 +1,13 @@
+{
+  "id": "departure",
+  "hash": "dca610f1f7ac5b41723748d1df1861591783a1e3c93008116fe364847aa51b38",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 135,
+  "character_cost": 135,
+  "request_id": "DNUVUg27unBT5P7ZJvZ1",
+  "generated_at": "2026-09-08T07:34:16.331Z",
+  "bytes": 130447,
+  "audio_sha256": "256626390377a7389a9db496e9dcfd191eb6342697c69828f8ec60d19ced6972"
+}

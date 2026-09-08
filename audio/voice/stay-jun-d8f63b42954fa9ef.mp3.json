@@ -1,0 +1,13 @@
+{
+  "id": "stay-jun",
+  "hash": "d8f63b42954fa9ef7d1ca419fc162b4fc10e4edd69058833c4e998b911b26056",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 22,
+  "character_cost": 22,
+  "request_id": "KYxyBAKhv3KcAuzFZiwJ",
+  "generated_at": "2026-09-08T07:33:09.500Z",
+  "bytes": 21777,
+  "audio_sha256": "86488bba78011b7b483741af348db7f6b41ae5807f34a06d5f9ce88e45f69b0b"
+}

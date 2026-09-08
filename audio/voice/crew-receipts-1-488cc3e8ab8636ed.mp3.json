@@ -1,0 +1,13 @@
+{
+  "id": "crew-receipts-1",
+  "hash": "488cc3e8ab8636edd0994537ce1400078319733e2a9d46fea763cef1910b101b",
+  "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+  "voice_name": "Lily",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 52,
+  "character_cost": 52,
+  "request_id": "zuHZASEUnNXUHx7xcGc7",
+  "generated_at": "2026-09-08T07:35:57.467Z",
+  "bytes": 54378,
+  "audio_sha256": "740f34c1cc0affe1f63e49df5788ff607c6ccb02628a91b328f6f68e7439e913"
+}

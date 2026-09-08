@@ -1,0 +1,13 @@
+{
+  "id": "clause",
+  "hash": "2611c82d542d65605417a866e83b2a8f0b716ee63ae4745a1ed7b7112172af2c",
+  "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+  "voice_name": "Alice",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 71,
+  "character_cost": 71,
+  "request_id": "adO3hzsvRL05xoXphOzy",
+  "generated_at": "2026-09-08T07:34:07.511Z",
+  "bytes": 87397,
+  "audio_sha256": "bd39277287de17c8843e9bfcd735db00cbe71bccae081296e396f11b4890344e"
+}

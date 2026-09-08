@@ -1,0 +1,13 @@
+{
+  "id": "run-win",
+  "hash": "99cd460ee36a1f9dc4ac470f43948db5ae5bf06b7e658e4e53c5d364f17abff1",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 101,
+  "character_cost": 101,
+  "request_id": "EEubdsxskoWuC09enKBk",
+  "generated_at": "2026-09-08T07:34:21.523Z",
+  "bytes": 93248,
+  "audio_sha256": "1774f5a39af2d371188612fd72dd5a201d3673ffc47418c5be62665357f4b06c"
+}

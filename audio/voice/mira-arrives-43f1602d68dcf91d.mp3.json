@@ -1,0 +1,13 @@
+{
+  "id": "mira-arrives",
+  "hash": "43f1602d68dcf91d640e5304d491ed649fab8f48d0d549851c1a74c1d3cc18ed",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 136,
+  "character_cost": 136,
+  "request_id": "bDhIIDYyvHAfJMfKsJGZ",
+  "generated_at": "2026-09-08T07:32:27.417Z",
+  "bytes": 128775,
+  "audio_sha256": "1da687b1f6b6fa0e4725e1e3b3c92e3f9a091203296d6955a765b87580974a65"
+}

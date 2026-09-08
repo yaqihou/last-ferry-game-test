@@ -1,0 +1,13 @@
+{
+  "id": "drink",
+  "hash": "ca02b03a50ef41ab7495943076eb9d0718fcb8946a7670e5583307e8e440d6d7",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 63,
+  "character_cost": 63,
+  "request_id": "jTSECJcEcX36RWozZ9Se",
+  "generated_at": "2026-09-08T07:32:15.405Z",
+  "bytes": 51453,
+  "audio_sha256": "d0f3a0d26be9782fa2be7bc029ed272013f17d62eebbdfb5131409957bced7de"
+}

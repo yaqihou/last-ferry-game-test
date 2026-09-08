@@ -1,0 +1,13 @@
+{
+  "id": "audition",
+  "hash": "d357231dc8ed6c33b5b4b9351a18abd95fd4c18e392354483e97095599b3420a",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 67,
+  "character_cost": 67,
+  "request_id": "kJWqQNeUlGK7EvLbc1fy",
+  "generated_at": "2026-09-08T07:33:50.680Z",
+  "bytes": 69425,
+  "audio_sha256": "4c103c3f7fccb4712cd06fa755bfa5f582878bb3db4af9e9176745ea2d216c85"
+}

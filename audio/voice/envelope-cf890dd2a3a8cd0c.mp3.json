@@ -1,0 +1,13 @@
+{
+  "id": "envelope",
+  "hash": "cf890dd2a3a8cd0c2cfbb096fbfb33dc1b8f5def0c2925d219735f69ab7f9807",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 84,
+  "character_cost": 84,
+  "request_id": "F48x4TIjt420K9ZaPhwf",
+  "generated_at": "2026-09-08T07:33:45.692Z",
+  "bytes": 73186,
+  "audio_sha256": "136ed0eaf13403e1e765daa45a3afce77c053b992be14f8363e78910cb7f863a"
+}

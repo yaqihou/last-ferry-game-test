@@ -1,0 +1,13 @@
+{
+  "id": "quiet",
+  "hash": "39f9cd8e1f9a7acdc448bffa79389c13e706a0b465793a5f370a15bb89b6e857",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 69,
+  "character_cost": 69,
+  "request_id": "W6sVuyJwHpNjhh4XBCcA",
+  "generated_at": "2026-09-08T07:34:45.407Z",
+  "bytes": 60648,
+  "audio_sha256": "7fceab95a5950dccd72f65330779c28f94a077f8548ea1451d98d3d61911b02e"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "duck-love-2",
+  "hash": "ce4b1de598a2d7a757b745fcab93c648be2e2c9e2532710499b79e506dfe7746",
+  "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+  "voice_name": "Laura",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 44,
+  "character_cost": 44,
+  "request_id": "qzUO8yrXDCYUxPzWgSfM",
+  "generated_at": "2026-09-08T07:33:29.727Z",
+  "bytes": 42675,
+  "audio_sha256": "6184f4c0d6434c28f97226dce7d5fba9f8532100b33a40f261d27dfd2fc62c8e"
+}

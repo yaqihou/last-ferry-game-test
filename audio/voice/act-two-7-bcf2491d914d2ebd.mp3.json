@@ -1,0 +1,13 @@
+{
+  "id": "act-two-7",
+  "hash": "bcf2491d914d2ebdeabb3a28bda97f3ccb8c91287cf886d8c80ff0acb1a1014a",
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "voice_name": "George",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 105,
+  "character_cost": 105,
+  "request_id": "Xtm5ZYaQLymU8rsTPmxM",
+  "generated_at": "2026-09-08T07:33:23.090Z",
+  "bytes": 115400,
+  "audio_sha256": "701c16a668c3e18993ea064cf2c6dbaba264ffd1a41bc426fffd870f5e4350ae"
+}

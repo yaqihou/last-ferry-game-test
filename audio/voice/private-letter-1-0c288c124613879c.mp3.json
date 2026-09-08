@@ -1,0 +1,13 @@
+{
+  "id": "private-letter-1",
+  "hash": "0c288c124613879cbedca9ed94e439b6fa5638faa2549b14675e45c777ed598f",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 10,
+  "character_cost": 10,
+  "request_id": "OSYsNsWqtinmlAz8p9v5",
+  "generated_at": "2026-09-08T07:33:54.883Z",
+  "bytes": 14254,
+  "audio_sha256": "d660a024d12e531668f90e0a514fcb5237e18e4483258a29b18dd071db50046c"
+}

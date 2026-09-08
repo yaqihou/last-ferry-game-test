@@ -1,0 +1,13 @@
+{
+  "id": "duck",
+  "hash": "78b28cc3f09c660272ec359bfdee6acf39c03d69d0a354b52bfc2afcd6adb122",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 53,
+  "character_cost": 53,
+  "request_id": "tH6ZYucaKJdAaAp54isH",
+  "generated_at": "2026-09-08T07:33:26.441Z",
+  "bytes": 51453,
+  "audio_sha256": "cf91519051ad06ae742629ac7413de851750540e47a473cdf203a36ed4f02b71"
+}

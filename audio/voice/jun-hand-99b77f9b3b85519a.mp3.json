@@ -1,0 +1,13 @@
+{
+  "id": "jun-hand",
+  "hash": "99b77f9b3b85519ab100328505dca873fc3a91fc0cbee516a64d4b5e9a67011d",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 31,
+  "character_cost": 31,
+  "request_id": "2LR1BywYSI0c2QtSdyW6",
+  "generated_at": "2026-09-08T07:35:33.974Z",
+  "bytes": 32226,
+  "audio_sha256": "c164ff85c2bf480e81bf40de4413e992133c0b063ed614af0746664a15ce8e5b"
+}

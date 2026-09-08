@@ -1,0 +1,13 @@
+{
+  "id": "clause-2",
+  "hash": "46262315165ac7e51265cdf9da6a2131c1a046c0ae7450783217910e4a445289",
+  "voice_id": "SAz9YHcvj6GT2YYXdXww",
+  "voice_name": "River",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 40,
+  "character_cost": 40,
+  "request_id": "lo9hZFnvPIzhPuUYcUkC",
+  "generated_at": "2026-09-08T07:34:09.473Z",
+  "bytes": 32226,
+  "audio_sha256": "88bc0aad6bdba7bd1d77ff97af723254283524129462a2fc502225af8b2cb875"
+}

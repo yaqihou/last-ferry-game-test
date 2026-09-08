@@ -1,0 +1,13 @@
+{
+  "id": "refund-2",
+  "hash": "fe648a5435dd042b2ded1f3b447e017c6de0fea8a6de01d811f4295d9633177d",
+  "voice_id": "bIHbv24MWmeRgasZH58o",
+  "voice_name": "Will",
+  "model_id": "eleven_multilingual_v2",
+  "characters": 98,
+  "character_cost": 98,
+  "request_id": "0ch1zPpq5aPl4IcSpZg2",
+  "generated_at": "2026-09-08T07:32:21.831Z",
+  "bytes": 88651,
+  "audio_sha256": "ede92f3d2e083a57967752463ab7693f4e2b31c2d53d551350d7970996238f92"
+}
